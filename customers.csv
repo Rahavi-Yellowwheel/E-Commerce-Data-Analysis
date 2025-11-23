@@ -1,0 +1,1988 @@
+Customer_ID,Customer_Name,Gender,Age,State,Signup_Date,Loyalty_Segment
+CUST1127,Customer_1,Male,30,Johor,2022-01-28,New
+CUST1460,Customer_2,Female,45,Penang,2022-07-23,Regular
+CUST861,Customer_3,Female,31,Pahang,2022-11-09,VIP
+CUST1295,Customer_4,Male,20,Sarawak,2022-12-31,Regular
+CUST1131,Customer_5,Male,33,Pahang,2022-02-06,Regular
+CUST1096,Customer_6,Female,42,Johor,2023-01-27,VIP
+CUST1725,Customer_7,Male,20,Kuala Lumpur,2023-09-09,Regular
+CUST1045,Customer_8,Female,51,Penang,2022-08-31,New
+CUST1639,Customer_9,Male,20,Johor,2022-04-10,New
+CUST122,Customer_10,Male,58,Selangor,2022-02-13,Regular
+CUST467,Customer_11,Female,46,Melaka,2022-03-06,Regular
+CUST1239,Customer_12,Female,57,Melaka,2022-06-27,Regular
+CUST331,Customer_13,Male,36,Perak,2022-05-27,New
+CUST1483,Customer_14,Female,37,Sabah,2023-07-15,Regular
+CUST88,Customer_15,Female,38,Johor,2022-03-08,Regular
+CUST1397,Customer_16,Female,37,Penang,2022-12-13,Regular
+CUST1124,Customer_17,Female,45,Penang,2022-02-15,Regular
+CUST872,Customer_18,Female,44,Johor,2022-03-11,Regular
+CUST1688,Customer_19,Female,42,Sabah,2023-02-18,Regular
+CUST131,Customer_20,Male,19,Kuala Lumpur,2023-03-30,Regular
+CUST1686,Customer_21,Female,41,Sabah,2023-09-13,New
+CUST1333,Customer_22,Female,50,Melaka,2022-07-28,New
+CUST770,Customer_23,Female,36,Negeri Sembilan,2022-07-26,New
+CUST344,Customer_24,Female,43,Johor,2023-01-16,VIP
+CUST1516,Customer_25,Male,58,Perak,2022-03-24,Regular
+CUST1438,Customer_26,Male,20,Melaka,2022-10-13,New
+CUST806,Customer_27,Female,44,Pahang,2023-04-02,New
+CUST386,Customer_28,Female,31,Kuala Lumpur,2023-09-27,New
+CUST1216,Customer_29,Male,37,Pahang,2023-02-22,Regular
+CUST956,Customer_30,Female,52,Kuala Lumpur,2022-08-26,Regular
+CUST277,Customer_31,Female,40,Negeri Sembilan,2022-12-12,Regular
+CUST1185,Customer_32,Male,42,Sabah,2023-01-01,Regular
+CUST460,Customer_33,Female,21,Pahang,2022-12-23,Regular
+CUST1338,Customer_34,Female,19,Negeri Sembilan,2022-03-02,Regular
+CUST22,Customer_35,Male,19,Pahang,2023-01-19,New
+CUST253,Customer_36,Female,42,Sarawak,2022-06-12,Regular
+CUST748,Customer_37,Female,40,Perak,2023-08-01,New
+CUST857,Customer_38,Male,38,Negeri Sembilan,2022-01-13,Regular
+CUST1585,Customer_39,Male,42,Negeri Sembilan,2023-07-26,New
+CUST475,Customer_40,Male,44,Kuala Lumpur,2022-04-17,Regular
+CUST1083,Customer_41,Female,28,Melaka,2022-12-29,Regular
+CUST511,Customer_42,Male,31,Melaka,2022-09-22,New
+CUST1706,Customer_43,Female,34,Kuala Lumpur,2022-04-18,Regular
+CUST1500,Customer_44,Female,32,Pahang,2023-04-13,Regular
+CUST700,Customer_45,Male,48,Sarawak,2023-11-20,New
+CUST976,Customer_46,Female,51,Selangor,2022-09-25,New
+CUST1807,Customer_47,Female,53,Perak,2022-08-23,New
+CUST190,Customer_48,Male,57,Perak,2023-09-16,VIP
+CUST958,Customer_49,Male,30,Pahang,2022-08-03,New
+CUST687,Customer_50,Female,35,Perak,2023-04-01,New
+CUST563,Customer_52,Female,56,Penang,2023-08-25,New
+CUST1900,Customer_53,Female,45,Sabah,2022-12-05,New
+CUST1591,Customer_54,Male,43,Selangor,2023-12-20,Regular
+CUST1268,Customer_55,Female,31,Sabah,2022-06-14,VIP
+CUST832,Customer_56,Female,54,Sabah,2022-02-10,Regular
+CUST1529,Customer_57,Female,28,Sarawak,2022-08-01,Regular
+CUST1155,Customer_58,Male,49,Negeri Sembilan,2022-04-25,New
+CUST1509,Customer_59,Male,41,Negeri Sembilan,2023-04-06,Regular
+CUST1843,Customer_60,Male,48,Johor,2022-05-15,New
+CUST647,Customer_61,Female,57,Kuala Lumpur,2022-12-11,Regular
+CUST21,Customer_62,Female,58,Perak,2022-02-02,Regular
+CUST841,Customer_63,Female,25,Selangor,2023-05-30,New
+CUST167,Customer_64,Female,56,Perak,2023-07-05,Regular
+CUST1298,Customer_65,Female,25,Pahang,2022-12-18,Regular
+CUST388,Customer_66,Female,48,Penang,2023-11-11,VIP
+CUST601,Customer_67,Female,36,Sarawak,2023-05-15,VIP
+CUST316,Customer_68,Female,53,Sarawak,2023-05-13,VIP
+CUST14,Customer_69,Male,56,Penang,2022-10-06,Regular
+CUST242,Customer_70,Male,49,Perak,2023-03-26,Regular
+CUST777,Customer_71,Male,38,Negeri Sembilan,2022-10-29,Regular
+CUST1370,Customer_72,Female,40,Johor,2023-06-02,Regular
+CUST565,Customer_73,Male,53,Kuala Lumpur,2022-10-04,Regular
+CUST898,Customer_74,Male,32,Penang,2023-09-01,New
+CUST1364,Customer_75,Male,19,Selangor,2022-03-21,New
+CUST92,Customer_76,Female,29,Perak,2023-03-27,New
+CUST1391,Customer_77,Female,55,Negeri Sembilan,2022-09-12,New
+CUST1479,Customer_79,Male,55,Penang,2022-08-02,New
+CUST1452,Customer_80,Male,18,Penang,2022-04-17,New
+CUST509,Customer_81,Male,55,Sarawak,2022-04-11,Regular
+CUST776,Customer_82,Male,43,Pahang,2023-09-17,Regular
+CUST1967,Customer_83,Female,40,Sarawak,2023-01-03,New
+CUST35,Customer_84,Female,18,Selangor,2023-12-05,Regular
+CUST206,Customer_85,Male,38,Penang,2023-11-24,New
+CUST1105,Customer_86,Female,36,Selangor,2023-07-16,Regular
+CUST1956,Customer_87,Female,46,Negeri Sembilan,2022-01-29,Regular
+CUST1586,Customer_88,Male,43,Sarawak,2022-12-23,New
+CUST1896,Customer_89,Male,51,Perak,2023-02-07,Regular
+CUST1412,Customer_90,Female,34,Sarawak,2023-09-08,New
+CUST1026,Customer_91,Female,35,Penang,2022-04-05,New
+CUST1022,Customer_92,Male,49,Penang,2023-07-24,Regular
+CUST1414,Customer_93,Female,21,Selangor,2022-05-22,Regular
+CUST566,Customer_94,Male,47,Perak,2022-05-05,New
+CUST1130,Customer_95,Female,48,Sarawak,2022-03-04,VIP
+CUST1796,Customer_96,Male,35,Penang,2023-01-07,New
+CUST1846,Customer_97,Female,22,Perak,2022-07-23,VIP
+CUST1501,Customer_98,Female,49,Pahang,2022-11-16,Regular
+CUST703,Customer_99,Male,46,Selangor,2022-05-19,Regular
+CUST402,Customer_100,Male,29,Sarawak,2022-06-24,New
+CUST730,Customer_101,Female,32,Melaka,2023-05-07,VIP
+CUST1580,Customer_102,Female,32,Melaka,2023-09-01,New
+CUST162,Customer_103,Female,52,Selangor,2022-07-01,VIP
+CUST202,Customer_104,Male,52,Johor,2023-09-22,New
+CUST1982,Customer_105,Male,31,Negeri Sembilan,2023-05-12,New
+CUST996,Customer_106,Male,56,Kuala Lumpur,2022-05-09,Regular
+CUST270,Customer_107,Male,35,Selangor,2023-06-06,VIP
+CUST1887,Customer_108,Female,55,Sabah,2023-10-15,New
+CUST816,Customer_109,Male,39,Selangor,2023-10-31,New
+CUST456,Customer_111,Female,28,Selangor,2022-09-18,Regular
+CUST1486,Customer_112,Female,20,Sabah,2022-02-22,New
+CUST1751,Customer_113,Female,31,Negeri Sembilan,2022-04-01,VIP
+CUST1276,Customer_114,Male,42,Perak,2022-09-07,Regular
+CUST1017,Customer_115,Female,31,Johor,2023-11-10,Regular
+CUST1726,Customer_116,Male,48,Melaka,2022-08-16,Regular
+CUST296,Customer_117,Female,42,Johor,2023-03-12,Regular
+CUST1749,Customer_118,Male,58,Johor,2023-09-07,New
+CUST720,Customer_119,Female,36,Negeri Sembilan,2023-07-12,Regular
+CUST1773,Customer_120,Male,29,Selangor,2022-03-30,New
+CUST338,Customer_121,Male,24,Penang,2022-10-22,New
+CUST879,Customer_122,Female,31,Johor,2022-02-11,New
+CUST1077,Customer_123,Male,46,Melaka,2023-11-19,VIP
+CUST792,Customer_124,Male,31,Selangor,2023-06-27,VIP
+CUST1946,Customer_125,Male,40,Penang,2023-08-06,Regular
+CUST217,Customer_126,Female,31,Kuala Lumpur,2023-04-18,Regular
+CUST764,Customer_127,Female,40,Sabah,2023-04-15,Regular
+CUST188,Customer_128,Female,25,Negeri Sembilan,2022-03-16,New
+CUST380,Customer_129,Female,30,Pahang,2023-01-23,Regular
+CUST493,Customer_130,Male,53,Negeri Sembilan,2023-12-30,Regular
+CUST1065,Customer_131,Female,18,Pahang,2023-04-27,New
+CUST1181,Customer_132,Male,54,Perak,2023-06-24,New
+CUST15,Customer_133,Female,43,Penang,2022-01-02,VIP
+CUST1837,Customer_134,Male,21,Melaka,2023-06-22,New
+CUST65,Customer_135,Female,33,Negeri Sembilan,2022-06-20,New
+CUST1881,Customer_136,Male,42,Negeri Sembilan,2023-04-19,Regular
+CUST1863,Customer_137,Female,36,Selangor,2023-02-26,Regular
+CUST521,Customer_138,Female,37,Pahang,2023-06-17,New
+CUST1368,Customer_139,Male,43,Perak,2022-10-13,Regular
+CUST1153,Customer_140,Female,49,Pahang,2022-02-07,VIP
+CUST648,Customer_141,Male,20,Negeri Sembilan,2022-05-05,New
+CUST1496,Customer_142,Male,24,Penang,2022-11-11,New
+CUST1087,Customer_143,Female,49,Sarawak,2023-07-25,New
+CUST1163,Customer_144,Female,22,Negeri Sembilan,2022-02-13,Regular
+CUST1523,Customer_145,Male,38,Kuala Lumpur,2022-11-28,Regular
+CUST593,Customer_146,Female,47,Kuala Lumpur,2023-06-27,New
+CUST392,Customer_147,Male,37,Perak,2022-06-14,New
+CUST1699,Customer_148,Female,46,Melaka,2022-12-24,New
+CUST419,Customer_149,Female,41,Pahang,2023-05-27,Regular
+CUST289,Customer_150,Male,18,Perak,2023-12-12,Regular
+CUST379,Customer_151,Male,42,Melaka,2023-03-31,New
+CUST1797,Customer_152,Female,44,Johor,2022-08-07,Regular
+CUST1514,Customer_153,Female,42,Negeri Sembilan,2023-10-28,VIP
+CUST231,Customer_154,Female,38,Johor,2022-07-03,New
+CUST1018,Customer_155,Female,34,Perak,2023-01-18,VIP
+CUST41,Customer_156,Male,45,Sarawak,2022-10-26,Regular
+CUST1052,Customer_157,Male,49,Negeri Sembilan,2023-02-07,Regular
+CUST135,Customer_158,Female,51,Perak,2023-10-24,Regular
+CUST201,Customer_159,Male,39,Sarawak,2023-03-17,Regular
+CUST1864,Customer_160,Female,59,Johor,2023-07-31,Regular
+CUST780,Customer_161,Female,36,Kuala Lumpur,2023-01-14,Regular
+CUST930,Customer_162,Female,25,Kuala Lumpur,2023-11-05,Regular
+CUST1057,Customer_163,Male,19,Perak,2023-07-16,Regular
+CUST1072,Customer_164,Male,22,Kuala Lumpur,2023-11-03,New
+CUST503,Customer_165,Male,45,Kuala Lumpur,2022-11-05,New
+CUST407,Customer_166,Male,21,Kuala Lumpur,2023-04-15,Regular
+CUST1598,Customer_167,Female,53,Johor,2022-02-20,New
+CUST1752,Customer_168,Female,18,Melaka,2022-10-03,Regular
+CUST805,Customer_169,Male,32,Sarawak,2023-07-11,Regular
+CUST99,Customer_170,Female,30,Perak,2023-03-10,New
+CUST684,Customer_171,Male,48,Sarawak,2023-01-15,VIP
+CUST726,Customer_173,Male,23,Melaka,2022-05-16,New
+CUST1571,Customer_174,Male,41,Melaka,2023-01-02,VIP
+CUST961,Customer_175,Female,30,Sarawak,2022-01-21,Regular
+CUST1763,Customer_176,Female,38,Perak,2023-06-14,New
+CUST613,Customer_177,Female,41,Sabah,2022-12-28,VIP
+CUST643,Customer_180,Female,41,Sarawak,2022-11-15,Regular
+CUST1793,Customer_181,Female,29,Perak,2023-04-11,New
+CUST1029,Customer_182,Male,37,Pahang,2023-02-08,New
+CUST1242,Customer_183,Female,59,Melaka,2022-05-01,New
+CUST767,Customer_185,Male,32,Sabah,2022-04-07,VIP
+CUST398,Customer_186,Female,21,Johor,2023-03-12,Regular
+CUST871,Customer_187,Female,31,Perak,2023-02-18,VIP
+CUST795,Customer_188,Male,18,Pahang,2022-05-09,New
+CUST393,Customer_189,Female,50,Penang,2022-09-03,Regular
+CUST207,Customer_190,Male,46,Kuala Lumpur,2022-01-10,Regular
+CUST1039,Customer_191,Female,27,Selangor,2023-07-31,Regular
+CUST1882,Customer_192,Male,53,Penang,2023-02-21,Regular
+CUST1578,Customer_193,Male,31,Selangor,2022-12-15,New
+CUST892,Customer_194,Male,39,Sabah,2023-02-23,Regular
+CUST1485,Customer_195,Female,50,Kuala Lumpur,2022-06-14,VIP
+CUST1715,Customer_196,Female,45,Penang,2022-06-28,New
+CUST1599,Customer_197,Female,24,Melaka,2022-02-23,Regular
+CUST864,Customer_198,Female,53,Perak,2022-11-15,Regular
+CUST743,Customer_199,Female,53,Kuala Lumpur,2022-02-15,Regular
+CUST1265,Customer_200,Female,58,Kuala Lumpur,2023-03-06,VIP
+CUST564,Customer_201,Male,51,Penang,2023-01-12,Regular
+CUST1021,Customer_202,Male,54,Penang,2022-06-27,Regular
+CUST96,Customer_203,Female,23,Melaka,2023-06-03,New
+CUST1924,Customer_204,Female,52,Perak,2023-08-19,New
+CUST1758,Customer_205,Male,44,Melaka,2022-05-08,New
+CUST485,Customer_206,Female,47,Johor,2023-05-06,Regular
+CUST1431,Customer_207,Female,49,Negeri Sembilan,2023-12-27,Regular
+CUST749,Customer_209,Male,39,Kuala Lumpur,2022-01-12,Regular
+CUST1679,Customer_210,Female,38,Sabah,2023-08-09,New
+CUST1195,Customer_211,Male,22,Johor,2023-07-04,VIP
+CUST541,Customer_212,Female,38,Kuala Lumpur,2023-05-03,Regular
+CUST1060,Customer_213,Male,58,Sabah,2023-10-23,New
+CUST525,Customer_214,Female,37,Johor,2023-02-11,Regular
+CUST1184,Customer_215,Female,55,Pahang,2023-04-24,Regular
+CUST1723,Customer_217,Male,54,Pahang,2022-08-02,Regular
+CUST1267,Customer_218,Male,23,Johor,2022-01-21,New
+CUST1110,Customer_219,Female,48,Johor,2023-04-13,Regular
+CUST1820,Customer_220,Female,41,Melaka,2023-03-21,Regular
+CUST578,Customer_221,Male,35,Selangor,2023-12-21,New
+CUST682,Customer_222,Male,46,Negeri Sembilan,2022-07-30,New
+CUST557,Customer_223,Female,29,Penang,2023-10-26,Regular
+CUST1977,Customer_225,Male,46,Perak,2022-04-17,Regular
+CUST1013,Customer_226,Female,24,Johor,2023-11-02,New
+CUST646,Customer_227,Male,33,Johor,2023-06-01,Regular
+CUST796,Customer_228,Female,29,Sarawak,2023-04-10,Regular
+CUST1644,Customer_230,Male,21,Pahang,2023-11-08,New
+CUST1822,Customer_233,Female,45,Johor,2023-12-07,New
+CUST1355,Customer_235,Male,25,Pahang,2022-04-28,New
+CUST1664,Customer_236,Male,43,Melaka,2022-05-13,Regular
+CUST1530,Customer_237,Male,57,Sarawak,2022-06-07,VIP
+CUST1372,Customer_238,Male,48,Johor,2023-09-11,New
+CUST1497,Customer_239,Female,36,Melaka,2022-06-22,New
+CUST1255,Customer_240,Female,24,Pahang,2023-10-20,Regular
+CUST1249,Customer_242,Male,30,Negeri Sembilan,2023-02-25,New
+CUST1409,Customer_243,Female,35,Kuala Lumpur,2022-09-17,New
+CUST1401,Customer_244,Male,35,Pahang,2023-07-12,New
+CUST1307,Customer_245,Female,37,Penang,2023-10-26,New
+CUST633,Customer_247,Male,53,Sarawak,2022-08-04,Regular
+CUST628,Customer_248,Female,57,Negeri Sembilan,2023-04-09,Regular
+CUST973,Customer_249,Male,50,Melaka,2023-10-08,VIP
+CUST1769,Customer_250,Female,24,Sabah,2022-08-12,Regular
+CUST1283,Customer_251,Male,57,Melaka,2023-05-10,Regular
+CUST1383,Customer_252,Male,22,Perak,2023-12-14,New
+CUST710,Customer_253,Male,49,Pahang,2022-01-18,Regular
+CUST1480,Customer_254,Male,26,Pahang,2022-07-23,Regular
+CUST1435,Customer_255,Male,47,Negeri Sembilan,2022-05-14,VIP
+CUST649,Customer_256,Male,49,Johor,2022-12-13,Regular
+CUST318,Customer_257,Female,56,Selangor,2022-04-18,New
+CUST1701,Customer_258,Male,21,Melaka,2023-02-27,Regular
+CUST1258,Customer_261,Male,25,Penang,2023-10-16,New
+CUST664,Customer_263,Female,54,Melaka,2023-08-12,Regular
+CUST1999,Customer_264,Female,52,Sabah,2023-05-19,New
+CUST1851,Customer_265,Male,54,Pahang,2022-06-23,New
+CUST1398,Customer_266,Male,39,Pahang,2022-04-21,VIP
+CUST1696,Customer_267,Female,18,Melaka,2022-04-27,Regular
+CUST1632,Customer_268,Female,56,Melaka,2022-02-10,New
+CUST1257,Customer_270,Male,50,Sarawak,2022-10-03,Regular
+CUST1716,Customer_271,Male,21,Penang,2022-03-09,New
+CUST1137,Customer_272,Female,26,Sarawak,2023-05-06,Regular
+CUST1854,Customer_273,Female,25,Penang,2023-09-08,Regular
+CUST1521,Customer_274,Male,39,Negeri Sembilan,2022-05-07,Regular
+CUST442,Customer_275,Female,59,Perak,2023-08-09,Regular
+CUST1292,Customer_277,Male,58,Penang,2022-09-15,New
+CUST1534,Customer_278,Male,45,Penang,2022-12-17,New
+CUST1831,Customer_279,Female,54,Penang,2022-11-05,Regular
+CUST1410,Customer_280,Male,19,Melaka,2023-12-25,Regular
+CUST1411,Customer_281,Male,34,Negeri Sembilan,2022-09-06,Regular
+CUST1637,Customer_283,Female,30,Selangor,2022-02-12,VIP
+CUST1649,Customer_284,Female,35,Sabah,2023-02-07,New
+CUST952,Customer_285,Male,41,Penang,2022-05-26,New
+CUST699,Customer_287,Female,50,Pahang,2022-07-18,Regular
+CUST113,Customer_288,Male,48,Kuala Lumpur,2023-02-05,Regular
+CUST2,Customer_289,Female,44,Penang,2023-09-21,New
+CUST642,Customer_290,Female,53,Sarawak,2022-06-30,New
+CUST220,Customer_291,Female,38,Sabah,2022-07-11,New
+CUST1590,Customer_292,Female,22,Kuala Lumpur,2022-05-11,VIP
+CUST855,Customer_293,Male,28,Perak,2023-02-13,New
+CUST1760,Customer_294,Female,51,Selangor,2023-02-18,New
+CUST385,Customer_296,Male,20,Selangor,2022-11-30,VIP
+CUST1427,Customer_297,Female,23,Penang,2022-05-31,Regular
+CUST1662,Customer_298,Female,37,Kuala Lumpur,2023-11-21,New
+CUST1154,Customer_299,Female,21,Johor,2022-04-24,VIP
+CUST1708,Customer_301,Female,56,Penang,2023-08-27,New
+CUST1734,Customer_304,Female,55,Sarawak,2022-07-08,New
+CUST1440,Customer_305,Male,53,Pahang,2022-08-18,VIP
+CUST247,Customer_306,Female,51,Negeri Sembilan,2022-10-22,VIP
+CUST836,Customer_307,Male,23,Melaka,2023-06-01,New
+CUST1463,Customer_308,Female,56,Sabah,2022-03-15,VIP
+CUST203,Customer_309,Male,19,Negeri Sembilan,2022-01-30,VIP
+CUST1208,Customer_310,Male,35,Melaka,2022-12-02,Regular
+CUST123,Customer_311,Female,59,Johor,2022-09-24,Regular
+CUST401,Customer_312,Female,44,Kuala Lumpur,2023-10-05,Regular
+CUST294,Customer_314,Female,58,Sabah,2023-03-04,Regular
+CUST280,Customer_315,Male,36,Pahang,2023-07-20,New
+CUST1861,Customer_316,Male,49,Melaka,2023-10-03,New
+CUST884,Customer_317,Male,41,Melaka,2022-01-13,New
+CUST1634,Customer_318,Male,51,Johor,2023-07-29,New
+CUST198,Customer_319,Male,42,Pahang,2022-11-08,New
+CUST982,Customer_320,Female,41,Perak,2022-10-22,Regular
+CUST1931,Customer_321,Male,42,Selangor,2022-03-08,New
+CUST1535,Customer_322,Female,29,Negeri Sembilan,2023-09-12,New
+CUST752,Customer_323,Female,47,Sarawak,2023-03-01,New
+CUST144,Customer_324,Male,23,Selangor,2022-03-31,New
+CUST609,Customer_325,Female,47,Pahang,2023-01-30,New
+CUST1225,Customer_326,Male,50,Pahang,2023-03-30,Regular
+CUST1148,Customer_327,Female,32,Penang,2023-08-11,Regular
+CUST187,Customer_328,Female,46,Negeri Sembilan,2023-09-22,Regular
+CUST1350,Customer_329,Male,31,Selangor,2023-08-21,Regular
+CUST464,Customer_330,Male,42,Sabah,2023-11-09,New
+CUST1373,Customer_331,Female,22,Perak,2023-06-08,VIP
+CUST1795,Customer_332,Female,19,Johor,2023-02-24,Regular
+CUST660,Customer_333,Female,33,Selangor,2022-09-30,New
+CUST955,Customer_335,Male,55,Selangor,2023-11-03,Regular
+CUST403,Customer_337,Male,48,Kuala Lumpur,2023-12-08,New
+CUST1987,Customer_339,Female,23,Selangor,2023-09-18,Regular
+CUST147,Customer_341,Female,23,Selangor,2022-04-15,New
+CUST1172,Customer_342,Female,53,Selangor,2022-02-12,Regular
+CUST1735,Customer_344,Male,46,Melaka,2022-10-02,Regular
+CUST1844,Customer_345,Female,26,Selangor,2022-04-07,VIP
+CUST489,Customer_346,Female,39,Sarawak,2022-01-15,Regular
+CUST929,Customer_347,Male,27,Melaka,2022-11-05,Regular
+CUST1960,Customer_348,Female,41,Kuala Lumpur,2022-08-17,VIP
+CUST551,Customer_350,Male,19,Kuala Lumpur,2023-10-07,New
+CUST641,Customer_353,Female,50,Perak,2023-09-16,New
+CUST1803,Customer_354,Female,31,Melaka,2023-11-14,New
+CUST473,Customer_356,Female,54,Pahang,2023-02-09,Regular
+CUST1970,Customer_357,Male,41,Kuala Lumpur,2023-12-10,Regular
+CUST151,Customer_358,Female,58,Selangor,2023-02-01,VIP
+CUST1439,Customer_359,Female,37,Johor,2022-09-15,VIP
+CUST1322,Customer_360,Female,23,Kuala Lumpur,2022-12-30,New
+CUST1635,Customer_361,Female,50,Pahang,2022-05-14,Regular
+CUST263,Customer_362,Male,45,Sarawak,2022-04-03,VIP
+CUST1788,Customer_363,Female,28,Perak,2023-10-25,New
+CUST346,Customer_365,Female,37,Selangor,2022-11-26,VIP
+CUST624,Customer_366,Female,23,Kuala Lumpur,2023-04-13,Regular
+CUST1596,Customer_368,Male,36,Sarawak,2023-11-07,New
+CUST881,Customer_369,Female,32,Selangor,2023-06-06,Regular
+CUST897,Customer_371,Female,19,Kuala Lumpur,2023-01-26,New
+CUST1328,Customer_372,Male,45,Kuala Lumpur,2023-07-16,Regular
+CUST254,Customer_373,Male,53,Negeri Sembilan,2022-03-27,Regular
+CUST1676,Customer_374,Male,53,Melaka,2022-02-15,Regular
+CUST453,Customer_375,Male,35,Pahang,2023-05-28,VIP
+CUST1061,Customer_376,Female,29,Johor,2022-12-11,New
+CUST1015,Customer_378,Male,43,Negeri Sembilan,2022-09-05,Regular
+CUST9,Customer_379,Male,42,Johor,2022-02-22,VIP
+CUST1123,Customer_381,Female,32,Melaka,2022-04-23,Regular
+CUST1683,Customer_382,Female,27,Perak,2023-02-20,Regular
+CUST208,Customer_384,Female,51,Sarawak,2022-01-14,Regular
+CUST404,Customer_386,Male,33,Penang,2022-10-25,VIP
+CUST152,Customer_387,Female,57,Sarawak,2023-02-17,Regular
+CUST54,Customer_388,Male,48,Melaka,2022-10-15,Regular
+CUST1144,Customer_389,Male,18,Johor,2022-01-11,Regular
+CUST1697,Customer_390,Male,40,Sabah,2022-06-05,New
+CUST1944,Customer_391,Female,31,Pahang,2023-03-29,Regular
+CUST587,Customer_393,Male,47,Melaka,2022-02-21,New
+CUST1992,Customer_395,Male,37,Sarawak,2022-06-28,New
+CUST1444,Customer_396,Female,42,Perak,2023-10-09,New
+CUST1446,Customer_397,Male,28,Sarawak,2023-07-08,New
+CUST104,Customer_398,Male,43,Sabah,2023-09-15,New
+CUST1876,Customer_399,Female,38,Perak,2022-08-01,New
+CUST1251,Customer_401,Female,24,Pahang,2022-01-11,Regular
+CUST1136,Customer_402,Male,29,Kuala Lumpur,2022-11-19,Regular
+CUST510,Customer_403,Male,19,Penang,2022-01-30,New
+CUST153,Customer_406,Female,49,Kuala Lumpur,2023-12-22,New
+CUST1885,Customer_407,Male,22,Selangor,2022-01-23,Regular
+CUST914,Customer_408,Female,44,Negeri Sembilan,2022-12-07,New
+CUST1920,Customer_409,Female,48,Pahang,2023-06-01,Regular
+CUST878,Customer_410,Female,29,Perak,2022-09-13,New
+CUST1730,Customer_412,Male,38,Melaka,2023-06-11,Regular
+CUST822,Customer_413,Male,36,Sarawak,2023-09-14,Regular
+CUST1187,Customer_414,Male,20,Sabah,2023-05-29,Regular
+CUST1744,Customer_415,Male,34,Johor,2023-11-25,New
+CUST957,Customer_416,Male,47,Pahang,2022-07-31,New
+CUST1705,Customer_417,Female,53,Pahang,2023-01-17,Regular
+CUST161,Customer_418,Male,26,Sarawak,2022-02-10,New
+CUST1604,Customer_419,Male,51,Sarawak,2022-10-30,New
+CUST801,Customer_420,Female,46,Selangor,2022-05-06,New
+CUST1301,Customer_422,Female,26,Johor,2023-04-22,New
+CUST1940,Customer_424,Female,28,Negeri Sembilan,2023-06-22,Regular
+CUST1528,Customer_425,Female,36,Kuala Lumpur,2023-06-16,New
+CUST1416,Customer_427,Female,39,Johor,2023-07-09,New
+CUST1159,Customer_428,Male,33,Johor,2023-11-11,New
+CUST1219,Customer_429,Female,34,Penang,2023-06-14,New
+CUST640,Customer_431,Male,24,Johor,2022-03-20,Regular
+CUST688,Customer_433,Male,21,Selangor,2023-04-18,Regular
+CUST1907,Customer_436,Male,47,Negeri Sembilan,2023-09-06,VIP
+CUST470,Customer_437,Female,20,Selangor,2023-05-31,Regular
+CUST1399,Customer_438,Male,42,Negeri Sembilan,2023-11-14,New
+CUST1046,Customer_439,Male,51,Sabah,2023-09-06,New
+CUST750,Customer_440,Female,50,Melaka,2022-09-05,Regular
+CUST1694,Customer_441,Male,48,Melaka,2023-09-21,VIP
+CUST38,Customer_442,Female,41,Melaka,2022-11-18,Regular
+CUST230,Customer_443,Male,55,Melaka,2023-03-22,New
+CUST1389,Customer_444,Male,21,Selangor,2023-08-18,New
+CUST438,Customer_446,Female,42,Sarawak,2022-06-28,Regular
+CUST1800,Customer_447,Male,54,Negeri Sembilan,2022-07-11,Regular
+CUST27,Customer_449,Male,34,Melaka,2023-09-28,Regular
+CUST226,Customer_450,Male,24,Perak,2022-01-11,New
+CUST798,Customer_452,Male,18,Negeri Sembilan,2023-02-21,Regular
+CUST1633,Customer_453,Female,23,Sarawak,2023-08-01,Regular
+CUST284,Customer_454,Female,56,Pahang,2023-01-20,Regular
+CUST960,Customer_456,Female,38,Negeri Sembilan,2022-03-18,New
+CUST1505,Customer_457,Female,20,Perak,2023-10-29,New
+CUST1020,Customer_459,Female,45,Selangor,2022-08-09,Regular
+CUST1853,Customer_460,Male,19,Selangor,2022-06-22,Regular
+CUST659,Customer_462,Male,49,Kuala Lumpur,2023-08-19,Regular
+CUST1540,Customer_463,Female,29,Perak,2022-10-27,New
+CUST547,Customer_464,Male,18,Negeri Sembilan,2023-07-11,Regular
+CUST1073,Customer_466,Female,46,Melaka,2023-11-12,New
+CUST1536,Customer_467,Female,26,Perak,2023-03-12,Regular
+CUST17,Customer_468,Male,35,Penang,2022-01-17,New
+CUST1196,Customer_469,Female,53,Sabah,2022-02-19,New
+CUST1244,Customer_470,Female,33,Melaka,2023-05-19,Regular
+CUST158,Customer_471,Male,52,Sabah,2023-11-12,VIP
+CUST477,Customer_472,Male,53,Sarawak,2023-03-08,New
+CUST1070,Customer_473,Male,21,Sarawak,2022-06-11,Regular
+CUST518,Customer_475,Male,52,Negeri Sembilan,2022-01-02,Regular
+CUST1916,Customer_477,Female,23,Selangor,2022-07-03,Regular
+CUST497,Customer_482,Female,53,Selangor,2023-05-10,Regular
+CUST302,Customer_483,Female,19,Johor,2022-02-06,VIP
+CUST181,Customer_484,Male,54,Perak,2023-06-17,Regular
+CUST607,Customer_485,Male,32,Johor,2022-10-01,New
+CUST993,Customer_488,Female,23,Pahang,2023-08-24,New
+CUST1140,Customer_489,Female,50,Penang,2022-07-27,New
+CUST191,Customer_490,Female,22,Sarawak,2022-04-19,Regular
+CUST981,Customer_492,Female,45,Kuala Lumpur,2023-12-01,New
+CUST928,Customer_493,Male,38,Melaka,2023-11-17,Regular
+CUST1280,Customer_495,Male,45,Kuala Lumpur,2022-08-02,New
+CUST1347,Customer_496,Female,28,Sarawak,2023-11-15,VIP
+CUST128,Customer_497,Male,39,Melaka,2023-10-14,VIP
+CUST18,Customer_498,Male,51,Pahang,2022-11-16,New
+CUST1817,Customer_499,Female,54,Penang,2023-04-19,Regular
+CUST1759,Customer_500,Female,58,Sabah,2023-10-30,Regular
+CUST570,Customer_502,Male,32,Kuala Lumpur,2023-09-07,New
+CUST686,Customer_505,Female,58,Negeri Sembilan,2023-11-02,VIP
+CUST1816,Customer_506,Female,39,Negeri Sembilan,2022-03-04,Regular
+CUST626,Customer_507,Male,44,Melaka,2022-03-17,Regular
+CUST1312,Customer_508,Female,55,Pahang,2023-04-04,New
+CUST854,Customer_510,Female,38,Melaka,2023-04-18,New
+CUST1687,Customer_511,Male,21,Perak,2022-12-11,New
+CUST962,Customer_512,Male,35,Pahang,2022-12-30,Regular
+CUST1663,Customer_513,Male,24,Perak,2022-10-03,Regular
+CUST155,Customer_514,Female,33,Kuala Lumpur,2023-04-01,New
+CUST490,Customer_515,Male,52,Penang,2022-01-24,Regular
+CUST785,Customer_517,Male,24,Selangor,2022-11-25,Regular
+CUST1128,Customer_518,Male,58,Johor,2023-02-12,New
+CUST1953,Customer_519,Female,27,Sabah,2022-11-21,Regular
+CUST1417,Customer_520,Male,18,Negeri Sembilan,2023-03-08,Regular
+CUST1835,Customer_521,Female,29,Melaka,2022-02-14,Regular
+CUST246,Customer_522,Male,44,Pahang,2022-11-29,Regular
+CUST1200,Customer_523,Female,45,Perak,2023-02-09,VIP
+CUST1063,Customer_524,Male,35,Sarawak,2023-12-07,New
+CUST759,Customer_527,Male,56,Penang,2022-09-21,Regular
+CUST538,Customer_528,Male,34,Melaka,2023-04-17,Regular
+CUST1891,Customer_529,Female,59,Penang,2022-02-03,Regular
+CUST1842,Customer_530,Female,18,Selangor,2022-05-18,Regular
+CUST921,Customer_531,Male,55,Johor,2023-01-20,Regular
+CUST408,Customer_532,Male,21,Sarawak,2022-06-12,VIP
+CUST828,Customer_534,Male,38,Pahang,2023-05-18,New
+CUST903,Customer_536,Female,39,Pahang,2023-06-22,Regular
+CUST1849,Customer_537,Male,31,Perak,2023-08-03,VIP
+CUST36,Customer_538,Male,52,Selangor,2022-12-17,VIP
+CUST685,Customer_539,Male,21,Selangor,2023-10-07,Regular
+CUST20,Customer_540,Male,52,Negeri Sembilan,2023-08-22,Regular
+CUST321,Customer_541,Male,49,Johor,2023-04-27,New
+CUST512,Customer_543,Male,29,Perak,2023-03-27,Regular
+CUST400,Customer_544,Male,47,Sarawak,2022-10-26,New
+CUST654,Customer_545,Female,26,Sarawak,2023-07-05,Regular
+CUST972,Customer_546,Male,36,Perak,2022-08-19,VIP
+CUST471,Customer_548,Male,47,Perak,2023-02-10,New
+CUST1167,Customer_549,Female,18,Pahang,2022-11-10,New
+CUST1116,Customer_550,Female,40,Johor,2022-07-26,New
+CUST1378,Customer_551,Female,29,Sabah,2023-07-06,Regular
+CUST834,Customer_552,Male,22,Penang,2023-09-10,Regular
+CUST1824,Customer_553,Male,37,Johor,2022-10-15,Regular
+CUST727,Customer_554,Male,20,Melaka,2022-02-27,Regular
+CUST1983,Customer_555,Male,19,Pahang,2022-12-17,New
+CUST51,Customer_557,Female,19,Penang,2022-02-25,New
+CUST1689,Customer_558,Male,57,Pahang,2022-04-13,Regular
+CUST1722,Customer_559,Female,52,Penang,2023-01-10,VIP
+CUST575,Customer_560,Male,21,Sabah,2022-02-21,VIP
+CUST1214,Customer_561,Male,53,Melaka,2022-08-17,Regular
+CUST1149,Customer_562,Female,57,Pahang,2023-12-21,New
+CUST150,Customer_563,Female,23,Kuala Lumpur,2022-10-11,New
+CUST314,Customer_564,Female,31,Selangor,2022-04-06,New
+CUST1366,Customer_566,Male,54,Selangor,2023-01-17,VIP
+CUST305,Customer_567,Female,50,Sarawak,2023-11-08,New
+CUST838,Customer_570,Female,26,Pahang,2023-11-15,VIP
+CUST1078,Customer_572,Male,49,Sarawak,2023-10-03,New
+CUST1003,Customer_573,Male,45,Perak,2023-03-24,Regular
+CUST444,Customer_574,Female,45,Perak,2023-04-06,New
+CUST264,Customer_577,Male,30,Johor,2022-09-14,New
+CUST1004,Customer_580,Female,59,Melaka,2022-01-01,New
+CUST5,Customer_582,Male,46,Pahang,2023-05-27,VIP
+CUST1220,Customer_584,Female,25,Penang,2023-07-07,Regular
+CUST774,Customer_585,Male,39,Melaka,2022-10-04,New
+CUST877,Customer_586,Female,18,Perak,2022-08-07,Regular
+CUST992,Customer_587,Female,48,Sabah,2023-01-06,New
+CUST1374,Customer_589,Female,53,Sarawak,2022-07-18,Regular
+CUST47,Customer_590,Male,40,Kuala Lumpur,2023-04-11,Regular
+CUST867,Customer_591,Male,34,Penang,2023-05-16,Regular
+CUST823,Customer_592,Male,27,Kuala Lumpur,2023-09-03,New
+CUST936,Customer_593,Male,26,Negeri Sembilan,2022-03-09,Regular
+CUST656,Customer_595,Male,20,Melaka,2022-12-04,New
+CUST269,Customer_596,Female,50,Sabah,2023-03-26,New
+CUST370,Customer_597,Male,18,Selangor,2022-04-01,Regular
+CUST636,Customer_598,Female,37,Sabah,2023-09-08,Regular
+CUST657,Customer_602,Male,31,Sarawak,2022-08-14,Regular
+CUST120,Customer_603,Female,18,Sabah,2022-09-20,Regular
+CUST831,Customer_604,Male,52,Selangor,2023-07-23,Regular
+CUST1811,Customer_605,Male,35,Kuala Lumpur,2023-11-16,Regular
+CUST1628,Customer_606,Female,18,Perak,2022-05-06,Regular
+CUST1082,Customer_607,Female,22,Sarawak,2022-04-03,New
+CUST1975,Customer_608,Male,28,Johor,2022-05-01,Regular
+CUST741,Customer_610,Male,41,Kuala Lumpur,2023-05-30,New
+CUST1498,Customer_611,Male,56,Perak,2022-04-14,Regular
+CUST117,Customer_612,Female,49,Pahang,2023-11-03,New
+CUST791,Customer_614,Female,20,Selangor,2022-11-20,New
+CUST1151,Customer_615,Female,25,Sabah,2023-01-29,Regular
+CUST1932,Customer_617,Female,39,Pahang,2022-06-30,New
+CUST1665,Customer_619,Female,44,Johor,2023-11-03,Regular
+CUST634,Customer_621,Male,43,Perak,2023-11-09,Regular
+CUST513,Customer_622,Female,52,Penang,2022-07-19,Regular
+CUST1775,Customer_623,Female,30,Johor,2023-08-09,Regular
+CUST802,Customer_624,Male,34,Sarawak,2022-08-02,VIP
+CUST1120,Customer_625,Female,47,Perak,2022-08-14,Regular
+CUST1142,Customer_627,Male,31,Penang,2022-04-25,New
+CUST560,Customer_628,Female,47,Penang,2022-09-13,New
+CUST1625,Customer_629,Female,54,Pahang,2023-08-21,Regular
+CUST488,Customer_630,Female,55,Sabah,2023-02-10,VIP
+CUST1261,Customer_631,Male,26,Melaka,2023-06-02,New
+CUST1909,Customer_632,Female,49,Johor,2023-04-24,Regular
+CUST1296,Customer_634,Male,23,Johor,2023-10-01,Regular
+CUST1213,Customer_635,Female,18,Perak,2022-12-04,New
+CUST704,Customer_636,Male,42,Melaka,2023-06-30,Regular
+CUST1471,Customer_637,Female,57,Sarawak,2022-09-16,VIP
+CUST581,Customer_638,Female,55,Kuala Lumpur,2023-09-09,New
+CUST790,Customer_639,Male,20,Negeri Sembilan,2023-09-19,New
+CUST1100,Customer_643,Male,19,Negeri Sembilan,2023-12-22,New
+CUST154,Customer_644,Male,39,Sarawak,2023-08-29,VIP
+CUST1680,Customer_645,Female,30,Kuala Lumpur,2023-03-15,Regular
+CUST1459,Customer_646,Female,42,Pahang,2023-06-26,New
+CUST997,Customer_647,Female,28,Sarawak,2023-07-28,New
+CUST697,Customer_649,Female,54,Penang,2022-04-17,Regular
+CUST1309,Customer_650,Male,42,Sarawak,2023-07-16,New
+CUST1998,Customer_651,Male,52,Penang,2022-08-11,Regular
+CUST1093,Customer_653,Female,45,Perak,2022-04-30,Regular
+CUST1071,Customer_654,Male,59,Penang,2022-12-05,Regular
+CUST1009,Customer_655,Female,27,Negeri Sembilan,2022-09-29,Regular
+CUST94,Customer_656,Female,32,Sarawak,2023-02-26,Regular
+CUST1774,Customer_657,Male,49,Selangor,2023-02-07,New
+CUST1012,Customer_659,Female,41,Sabah,2023-08-14,VIP
+CUST1228,Customer_661,Female,47,Selangor,2022-07-10,Regular
+CUST912,Customer_662,Male,58,Negeri Sembilan,2023-08-20,New
+CUST218,Customer_663,Female,50,Kuala Lumpur,2023-09-28,New
+CUST474,Customer_664,Female,42,Selangor,2023-03-03,Regular
+CUST432,Customer_665,Male,56,Penang,2023-08-09,Regular
+CUST341,Customer_666,Male,56,Pahang,2023-05-14,New
+CUST1636,Customer_668,Female,55,Johor,2022-12-18,New
+CUST1313,Customer_669,Male,29,Johor,2022-10-16,New
+CUST1278,Customer_670,Male,21,Sabah,2022-02-18,VIP
+CUST357,Customer_672,Male,37,Negeri Sembilan,2023-11-21,New
+CUST23,Customer_673,Male,27,Sabah,2023-06-20,Regular
+CUST1786,Customer_674,Male,48,Sarawak,2022-10-04,Regular
+CUST522,Customer_675,Male,36,Sabah,2023-02-14,Regular
+CUST1782,Customer_676,Male,19,Negeri Sembilan,2023-08-16,VIP
+CUST1204,Customer_680,Female,50,Kuala Lumpur,2023-08-01,Regular
+CUST1247,Customer_681,Female,35,Sarawak,2022-03-05,VIP
+CUST1930,Customer_682,Female,57,Perak,2022-12-31,New
+CUST762,Customer_683,Male,49,Melaka,2023-04-25,New
+CUST769,Customer_687,Female,50,Selangor,2023-05-16,Regular
+CUST1016,Customer_688,Female,51,Kuala Lumpur,2023-10-27,VIP
+CUST1349,Customer_689,Female,31,Negeri Sembilan,2023-03-20,New
+CUST516,Customer_690,Female,19,Sarawak,2023-01-22,New
+CUST1040,Customer_691,Female,30,Sarawak,2022-01-07,Regular
+CUST336,Customer_693,Female,59,Johor,2022-07-08,New
+CUST1783,Customer_694,Male,51,Penang,2022-09-11,VIP
+CUST258,Customer_695,Female,34,Pahang,2023-08-27,New
+CUST896,Customer_697,Female,47,Pahang,2023-06-04,Regular
+CUST160,Customer_698,Male,21,Sabah,2023-05-26,Regular
+CUST1499,Customer_699,Male,48,Penang,2022-08-10,Regular
+CUST852,Customer_700,Male,22,Pahang,2023-03-23,Regular
+CUST690,Customer_703,Male,55,Sabah,2023-07-19,New
+CUST1569,Customer_706,Female,32,Johor,2022-01-08,New
+CUST691,Customer_709,Male,31,Selangor,2023-12-17,Regular
+CUST1451,Customer_710,Female,35,Penang,2023-05-02,New
+CUST1859,Customer_713,Male,55,Pahang,2022-07-06,VIP
+CUST1601,Customer_714,Male,41,Sabah,2022-05-13,New
+CUST1441,Customer_715,Female,55,Sarawak,2022-06-08,VIP
+CUST1192,Customer_716,Male,23,Sarawak,2023-02-01,New
+CUST1866,Customer_717,Male,37,Pahang,2022-04-28,Regular
+CUST1067,Customer_718,Female,59,Melaka,2023-01-20,Regular
+CUST285,Customer_720,Female,27,Pahang,2022-05-12,New
+CUST397,Customer_721,Female,39,Selangor,2023-01-09,Regular
+CUST12,Customer_722,Male,50,Pahang,2023-02-08,VIP
+CUST1631,Customer_723,Male,40,Sarawak,2022-12-15,Regular
+CUST1326,Customer_724,Female,58,Selangor,2022-02-01,New
+CUST1922,Customer_725,Male,59,Kuala Lumpur,2022-04-07,New
+CUST1277,Customer_726,Male,21,Selangor,2023-08-13,Regular
+CUST499,Customer_727,Female,38,Selangor,2022-12-05,New
+CUST754,Customer_728,Female,30,Penang,2023-01-22,New
+CUST849,Customer_731,Female,29,Perak,2022-02-20,Regular
+CUST90,Customer_732,Male,41,Kuala Lumpur,2022-01-02,New
+CUST605,Customer_734,Male,36,Melaka,2023-04-24,Regular
+CUST970,Customer_736,Male,30,Johor,2023-02-03,Regular
+CUST1626,Customer_737,Female,39,Sarawak,2022-02-08,New
+CUST418,Customer_739,Male,53,Penang,2023-11-14,Regular
+CUST115,Customer_740,Male,45,Penang,2022-09-08,New
+CUST617,Customer_741,Female,58,Sarawak,2022-03-07,Regular
+CUST1927,Customer_742,Male,24,Melaka,2023-03-05,Regular
+CUST826,Customer_744,Female,48,Selangor,2023-01-18,New
+CUST1525,Customer_745,Female,28,Perak,2022-01-27,New
+CUST1650,Customer_746,Male,47,Johor,2022-03-08,VIP
+CUST1517,Customer_747,Female,32,Melaka,2023-12-03,VIP
+CUST1099,Customer_748,Female,30,Sarawak,2023-05-15,New
+CUST413,Customer_749,Female,52,Kuala Lumpur,2023-02-16,Regular
+CUST1400,Customer_750,Male,52,Sabah,2023-09-22,VIP
+CUST729,Customer_752,Female,40,Sarawak,2023-01-05,Regular
+CUST761,Customer_755,Male,36,Kuala Lumpur,2023-03-12,New
+CUST676,Customer_756,Female,35,Melaka,2022-03-02,Regular
+CUST1418,Customer_757,Male,21,Sabah,2022-02-19,New
+CUST1893,Customer_758,Male,25,Negeri Sembilan,2023-06-09,Regular
+CUST457,Customer_759,Male,47,Sarawak,2022-07-15,New
+CUST920,Customer_760,Female,37,Perak,2023-01-05,Regular
+CUST192,Customer_761,Male,25,Melaka,2022-10-02,VIP
+CUST739,Customer_762,Female,22,Sarawak,2022-08-04,Regular
+CUST1713,Customer_763,Female,58,Selangor,2022-10-19,Regular
+CUST1572,Customer_765,Female,57,Sarawak,2023-06-09,Regular
+CUST978,Customer_766,Male,24,Pahang,2023-06-20,Regular
+CUST663,Customer_770,Female,29,Melaka,2023-08-31,Regular
+CUST37,Customer_773,Male,34,Pahang,2023-10-24,New
+CUST1804,Customer_774,Female,43,Perak,2022-06-13,Regular
+CUST1393,Customer_775,Female,50,Kuala Lumpur,2023-01-29,New
+CUST1719,Customer_776,Female,43,Melaka,2022-09-25,VIP
+CUST1549,Customer_777,Female,39,Sarawak,2022-11-21,New
+CUST279,Customer_778,Male,20,Johor,2023-02-08,New
+CUST873,Customer_781,Female,35,Pahang,2023-06-14,Regular
+CUST1297,Customer_783,Male,57,Negeri Sembilan,2023-05-03,Regular
+CUST1905,Customer_784,Female,34,Sabah,2022-08-13,New
+CUST62,Customer_785,Male,58,Negeri Sembilan,2022-10-24,Regular
+CUST596,Customer_786,Female,29,Melaka,2022-07-16,New
+CUST1904,Customer_787,Male,56,Selangor,2022-11-25,New
+CUST1043,Customer_792,Male,19,Johor,2022-01-17,Regular
+CUST177,Customer_793,Male,24,Sabah,2023-07-01,New
+CUST396,Customer_795,Male,48,Negeri Sembilan,2023-02-28,Regular
+CUST445,Customer_796,Male,45,Johor,2023-02-07,New
+CUST1939,Customer_798,Female,25,Melaka,2023-12-11,Regular
+CUST76,Customer_799,Male,24,Kuala Lumpur,2023-09-21,New
+CUST265,Customer_800,Female,53,Sarawak,2023-05-08,Regular
+CUST455,Customer_801,Female,27,Melaka,2023-03-20,VIP
+CUST718,Customer_803,Female,47,Pahang,2023-06-23,Regular
+CUST735,Customer_804,Female,57,Sabah,2022-09-27,VIP
+CUST1408,Customer_805,Male,58,Melaka,2023-09-03,Regular
+CUST1588,Customer_806,Female,58,Penang,2022-05-06,New
+CUST851,Customer_807,Female,22,Kuala Lumpur,2023-12-25,New
+CUST885,Customer_811,Female,33,Perak,2023-01-27,Regular
+CUST1049,Customer_815,Male,54,Kuala Lumpur,2022-06-07,VIP
+CUST948,Customer_816,Male,50,Sarawak,2022-08-24,New
+CUST891,Customer_817,Female,22,Penang,2023-05-04,New
+CUST1493,Customer_818,Female,26,Melaka,2022-07-22,Regular
+CUST1508,Customer_819,Male,38,Negeri Sembilan,2023-12-21,Regular
+CUST1589,Customer_820,Female,24,Penang,2022-12-28,New
+CUST1175,Customer_821,Male,59,Sabah,2022-11-27,Regular
+CUST1168,Customer_822,Male,42,Melaka,2023-07-28,VIP
+CUST569,Customer_823,Male,38,Sabah,2022-11-17,VIP
+CUST109,Customer_825,Female,38,Penang,2023-01-11,New
+CUST1717,Customer_826,Male,27,Johor,2023-09-20,New
+CUST1066,Customer_827,Female,41,Negeri Sembilan,2022-06-24,VIP
+CUST1210,Customer_828,Female,44,Selangor,2022-11-25,Regular
+CUST935,Customer_829,Female,50,Johor,2022-10-10,Regular
+CUST1157,Customer_833,Female,38,Sarawak,2023-10-14,Regular
+CUST733,Customer_836,Female,19,Pahang,2022-02-02,Regular
+CUST235,Customer_837,Male,24,Sabah,2023-05-23,Regular
+CUST1867,Customer_838,Male,53,Melaka,2022-05-21,New
+CUST658,Customer_839,Female,49,Melaka,2022-02-12,Regular
+CUST751,Customer_840,Female,20,Perak,2023-10-23,New
+CUST588,Customer_841,Male,20,Melaka,2023-12-24,Regular
+CUST1033,Customer_842,Male,50,Kuala Lumpur,2023-02-22,New
+CUST1098,Customer_843,Female,42,Johor,2022-10-03,Regular
+CUST954,Customer_844,Female,54,Pahang,2022-03-23,Regular
+CUST492,Customer_845,Female,53,Kuala Lumpur,2022-08-01,Regular
+CUST913,Customer_846,Female,52,Perak,2023-09-24,Regular
+CUST1254,Customer_848,Male,36,Sabah,2022-02-14,New
+CUST1543,Customer_849,Male,50,Sarawak,2023-06-14,VIP
+CUST1198,Customer_850,Male,35,Sabah,2022-10-30,Regular
+CUST1677,Customer_851,Male,44,Kuala Lumpur,2023-09-18,Regular
+CUST170,Customer_853,Male,48,Johor,2022-11-24,Regular
+CUST946,Customer_855,Female,20,Melaka,2022-01-20,Regular
+CUST1218,Customer_858,Female,25,Selangor,2023-09-24,VIP
+CUST1541,Customer_859,Male,51,Negeri Sembilan,2022-02-10,Regular
+CUST29,Customer_860,Male,59,Melaka,2022-10-27,New
+CUST1189,Customer_861,Female,35,Selangor,2023-01-12,New
+CUST339,Customer_863,Female,49,Perak,2023-02-23,New
+CUST1672,Customer_864,Male,19,Melaka,2022-03-22,Regular
+CUST1520,Customer_865,Male,34,Pahang,2022-01-27,New
+CUST1857,Customer_867,Female,24,Kuala Lumpur,2022-10-23,Regular
+CUST500,Customer_869,Female,19,Negeri Sembilan,2022-06-21,Regular
+CUST1681,Customer_870,Female,44,Sarawak,2023-01-15,New
+CUST1351,Customer_872,Female,42,Johor,2022-05-29,Regular
+CUST1325,Customer_874,Male,34,Sarawak,2022-06-14,Regular
+CUST1156,Customer_875,Male,18,Selangor,2023-02-22,Regular
+CUST1828,Customer_876,Female,48,Kuala Lumpur,2023-01-08,New
+CUST1094,Customer_877,Female,57,Kuala Lumpur,2022-04-18,Regular
+CUST876,Customer_882,Male,31,Selangor,2023-10-23,New
+CUST1206,Customer_883,Male,23,Penang,2022-08-07,Regular
+CUST91,Customer_885,Female,54,Kuala Lumpur,2022-09-06,Regular
+CUST714,Customer_886,Female,27,Kuala Lumpur,2022-10-01,New
+CUST1555,Customer_888,Female,52,Sabah,2022-07-16,Regular
+CUST39,Customer_889,Female,34,Perak,2023-11-05,Regular
+CUST1150,Customer_890,Female,44,Perak,2023-05-21,VIP
+CUST1475,Customer_891,Male,41,Negeri Sembilan,2023-09-03,New
+CUST173,Customer_892,Female,27,Sabah,2023-08-25,Regular
+CUST653,Customer_893,Male,34,Negeri Sembilan,2023-10-31,New
+CUST1684,Customer_898,Female,55,Johor,2023-11-04,New
+CUST476,Customer_899,Female,24,Kuala Lumpur,2022-04-06,Regular
+CUST829,Customer_901,Female,18,Kuala Lumpur,2023-12-27,New
+CUST895,Customer_902,Female,28,Kuala Lumpur,2022-10-17,New
+CUST1385,Customer_903,Female,27,Johor,2022-04-29,New
+CUST1959,Customer_904,Male,48,Sarawak,2023-09-23,Regular
+CUST1025,Customer_905,Male,42,Penang,2022-02-18,New
+CUST387,Customer_906,Male,18,Sarawak,2023-06-08,New
+CUST1997,Customer_907,Female,20,Negeri Sembilan,2022-09-11,New
+CUST348,Customer_908,Female,18,Penang,2022-05-30,VIP
+CUST505,Customer_910,Male,31,Selangor,2023-10-26,Regular
+CUST1215,Customer_911,Male,40,Sarawak,2022-11-08,Regular
+CUST1532,Customer_912,Male,34,Selangor,2023-10-27,Regular
+CUST1433,Customer_914,Male,26,Negeri Sembilan,2023-10-03,Regular
+CUST824,Customer_915,Male,38,Perak,2022-07-21,New
+CUST934,Customer_917,Female,49,Pahang,2023-11-05,VIP
+CUST1141,Customer_918,Male,25,Kuala Lumpur,2023-01-24,Regular
+CUST134,Customer_919,Female,53,Negeri Sembilan,2023-10-03,Regular
+CUST58,Customer_920,Male,43,Sabah,2023-04-07,VIP
+CUST672,Customer_923,Male,51,Sabah,2022-02-08,VIP
+CUST815,Customer_926,Female,26,Johor,2023-09-22,Regular
+CUST1173,Customer_927,Female,57,Melaka,2022-06-01,New
+CUST80,Customer_928,Male,43,Sabah,2022-02-10,New
+CUST886,Customer_929,Male,39,Kuala Lumpur,2022-04-29,Regular
+CUST1237,Customer_930,Female,30,Sabah,2023-08-25,New
+CUST1253,Customer_933,Female,44,Pahang,2022-02-07,New
+CUST1700,Customer_934,Male,32,Sarawak,2022-10-11,Regular
+CUST1556,Customer_937,Female,38,Melaka,2023-09-08,Regular
+CUST1465,Customer_938,Male,42,Selangor,2023-11-23,Regular
+CUST1426,Customer_939,Female,57,Johor,2023-01-03,Regular
+CUST1329,Customer_942,Male,25,Sarawak,2022-08-03,Regular
+CUST1550,Customer_943,Male,41,Penang,2022-09-09,Regular
+CUST1537,Customer_946,Male,39,Kuala Lumpur,2023-11-20,Regular
+CUST1910,Customer_949,Female,35,Pahang,2022-08-19,New
+CUST971,Customer_954,Female,19,Selangor,2022-04-09,Regular
+CUST1036,Customer_955,Male,39,Sabah,2023-02-19,New
+CUST1354,Customer_956,Female,55,Melaka,2022-03-22,VIP
+CUST736,Customer_957,Male,59,Pahang,2023-12-04,Regular
+CUST784,Customer_958,Female,45,Kuala Lumpur,2022-08-11,Regular
+CUST968,Customer_959,Male,34,Perak,2022-11-26,Regular
+CUST358,Customer_960,Male,35,Penang,2022-11-28,New
+CUST1432,Customer_962,Male,52,Sabah,2023-06-14,New
+CUST668,Customer_963,Female,32,Selangor,2022-04-25,Regular
+CUST373,Customer_964,Male,32,Melaka,2022-07-24,New
+CUST1032,Customer_965,Female,51,Sabah,2023-03-17,Regular
+CUST1146,Customer_966,Male,32,Johor,2023-12-13,New
+CUST698,Customer_971,Male,33,Sabah,2023-11-16,New
+CUST1340,Customer_972,Male,37,Penang,2022-03-20,Regular
+CUST1202,Customer_973,Female,43,Selangor,2023-04-27,VIP
+CUST540,Customer_974,Male,52,Melaka,2023-10-24,New
+CUST732,Customer_975,Female,34,Sarawak,2022-07-12,New
+CUST869,Customer_976,Male,43,Selangor,2022-09-19,Regular
+CUST740,Customer_978,Female,24,Pahang,2022-05-07,Regular
+CUST1728,Customer_979,Male,52,Kuala Lumpur,2022-07-02,Regular
+CUST1947,Customer_980,Male,29,Melaka,2023-04-07,New
+CUST502,Customer_981,Female,58,Perak,2023-11-05,Regular
+CUST959,Customer_982,Female,18,Melaka,2023-07-07,Regular
+CUST1169,Customer_983,Male,42,Sabah,2022-06-09,New
+CUST1748,Customer_986,Female,28,Sabah,2022-04-20,Regular
+CUST461,Customer_987,Male,54,Johor,2022-03-21,VIP
+CUST925,Customer_990,Female,59,Selangor,2023-06-01,New
+CUST909,Customer_991,Male,56,Penang,2022-08-15,New
+CUST1582,Customer_992,Male,37,Melaka,2023-02-11,Regular
+CUST390,Customer_995,Male,35,Selangor,2023-09-16,New
+CUST1618,Customer_996,Female,56,Johor,2023-01-26,Regular
+CUST883,Customer_997,Female,52,Johor,2022-04-15,VIP
+CUST256,Customer_998,Female,46,Negeri Sembilan,2022-03-03,New
+CUST709,Customer_999,Male,37,Selangor,2022-01-07,Regular
+CUST1839,Customer_1000,Female,59,Negeri Sembilan,2023-06-11,New
+CUST1945,Customer_1001,Male,32,Pahang,2022-05-05,New
+CUST450,Customer_1002,Female,49,Melaka,2023-06-16,Regular
+CUST10,Customer_1003,Male,29,Pahang,2023-01-03,VIP
+CUST1266,Customer_1006,Female,51,Sabah,2023-08-30,New
+CUST1275,Customer_1007,Female,25,Sabah,2023-03-09,New
+CUST1143,Customer_1010,Male,42,Negeri Sembilan,2023-03-24,New
+CUST1825,Customer_1012,Female,31,Penang,2023-07-12,VIP
+CUST374,Customer_1013,Male,53,Melaka,2023-03-12,Regular
+CUST1089,Customer_1014,Male,23,Johor,2022-02-06,Regular
+CUST146,Customer_1015,Male,26,Pahang,2023-09-29,Regular
+CUST224,Customer_1016,Male,18,Selangor,2022-03-01,Regular
+CUST1263,Customer_1017,Female,26,Penang,2023-03-08,New
+CUST853,Customer_1020,Female,35,Pahang,2023-09-01,VIP
+CUST1306,Customer_1021,Male,56,Negeri Sembilan,2022-05-18,New
+CUST63,Customer_1022,Male,35,Sarawak,2022-11-23,Regular
+CUST1241,Customer_1023,Female,58,Penang,2022-01-02,Regular
+CUST1878,Customer_1024,Female,45,Sarawak,2023-08-07,Regular
+CUST827,Customer_1025,Female,19,Melaka,2023-05-11,Regular
+CUST689,Customer_1027,Female,58,Penang,2022-08-14,New
+CUST105,Customer_1031,Female,23,Sarawak,2022-06-18,New
+CUST405,Customer_1035,Female,59,Negeri Sembilan,2023-06-06,New
+CUST1669,Customer_1041,Male,25,Pahang,2023-08-25,Regular
+CUST1894,Customer_1042,Female,52,Sarawak,2022-04-23,New
+CUST771,Customer_1043,Male,51,Johor,2022-03-21,Regular
+CUST1461,Customer_1044,Male,27,Penang,2023-09-25,New
+CUST1047,Customer_1045,Female,57,Penang,2023-03-19,Regular
+CUST677,Customer_1048,Female,44,Johor,2022-11-13,Regular
+CUST1482,Customer_1050,Female,43,Negeri Sembilan,2022-05-26,New
+CUST83,Customer_1051,Male,32,Selangor,2023-07-24,VIP
+CUST1109,Customer_1053,Female,54,Kuala Lumpur,2023-12-16,Regular
+CUST1102,Customer_1054,Male,35,Sarawak,2023-05-09,VIP
+CUST1902,Customer_1056,Male,44,Perak,2022-12-19,Regular
+CUST1,Customer_1057,Male,55,Johor,2022-03-14,Regular
+CUST717,Customer_1060,Female,46,Melaka,2023-04-08,New
+CUST1470,Customer_1062,Female,39,Kuala Lumpur,2022-04-11,VIP
+CUST449,Customer_1063,Female,40,Kuala Lumpur,2022-10-29,New
+CUST34,Customer_1067,Female,54,Selangor,2023-08-29,Regular
+CUST95,Customer_1069,Female,56,Penang,2023-01-20,VIP
+CUST1575,Customer_1071,Male,36,Perak,2023-12-14,VIP
+CUST250,Customer_1073,Male,53,Pahang,2022-07-12,VIP
+CUST674,Customer_1074,Female,50,Johor,2023-02-24,New
+CUST118,Customer_1076,Male,33,Sarawak,2023-06-12,Regular
+CUST1915,Customer_1078,Female,54,Negeri Sembilan,2022-05-30,New
+CUST1330,Customer_1079,Male,31,Johor,2023-04-02,Regular
+CUST268,Customer_1080,Male,47,Pahang,2023-04-07,Regular
+CUST1985,Customer_1081,Female,48,Selangor,2023-08-15,New
+CUST236,Customer_1083,Male,24,Sabah,2022-09-14,Regular
+CUST389,Customer_1084,Female,59,Johor,2022-05-26,New
+CUST990,Customer_1085,Male,54,Selangor,2023-08-10,VIP
+CUST763,Customer_1087,Female,39,Penang,2023-08-27,Regular
+CUST1327,Customer_1092,Male,30,Sabah,2023-09-07,New
+CUST919,Customer_1093,Male,34,Sabah,2022-08-06,Regular
+CUST1231,Customer_1094,Female,21,Perak,2022-05-22,New
+CUST1934,Customer_1097,Female,31,Pahang,2022-03-24,Regular
+CUST75,Customer_1099,Female,39,Sabah,2023-02-26,New
+CUST435,Customer_1100,Female,22,Johor,2022-05-08,VIP
+CUST103,Customer_1101,Female,54,Sabah,2022-01-28,Regular
+CUST738,Customer_1105,Female,30,Perak,2022-04-16,Regular
+CUST98,Customer_1108,Male,55,Selangor,2022-12-05,VIP
+CUST1874,Customer_1109,Female,41,Sarawak,2022-09-19,Regular
+CUST1359,Customer_1111,Male,30,Negeri Sembilan,2022-09-13,Regular
+CUST859,Customer_1112,Female,39,Kuala Lumpur,2022-12-25,Regular
+CUST447,Customer_1114,Female,27,Johor,2022-02-06,New
+CUST1332,Customer_1115,Female,29,Selangor,2023-11-27,New
+CUST249,Customer_1116,Female,47,Negeri Sembilan,2023-09-22,Regular
+CUST166,Customer_1117,Female,36,Perak,2023-04-22,Regular
+CUST984,Customer_1119,Female,27,Sabah,2023-10-14,VIP
+CUST542,Customer_1122,Male,28,Kuala Lumpur,2023-01-02,New
+CUST1587,Customer_1125,Female,38,Pahang,2023-11-13,New
+CUST81,Customer_1126,Female,39,Pahang,2022-05-26,New
+CUST133,Customer_1127,Female,27,Penang,2023-11-01,New
+CUST797,Customer_1128,Female,40,Kuala Lumpur,2023-10-09,Regular
+CUST900,Customer_1129,Male,22,Kuala Lumpur,2023-08-14,New
+CUST138,Customer_1130,Male,29,Johor,2022-10-13,VIP
+CUST184,Customer_1131,Female,47,Johor,2023-01-24,Regular
+CUST1425,Customer_1132,Male,50,Perak,2022-07-16,Regular
+CUST69,Customer_1138,Female,23,Perak,2023-09-10,VIP
+CUST546,Customer_1139,Female,24,Kuala Lumpur,2023-06-16,New
+CUST1798,Customer_1140,Female,36,Perak,2023-11-03,New
+CUST53,Customer_1141,Male,32,Perak,2022-08-12,New
+CUST1474,Customer_1142,Male,39,Selangor,2023-09-18,New
+CUST205,Customer_1143,Female,49,Perak,2023-04-30,Regular
+CUST126,Customer_1144,Female,32,Melaka,2023-09-12,VIP
+CUST1771,Customer_1145,Male,23,Pahang,2022-09-07,VIP
+CUST43,Customer_1146,Male,23,Kuala Lumpur,2023-04-18,Regular
+CUST1776,Customer_1147,Female,23,Melaka,2023-11-24,New
+CUST1995,Customer_1148,Female,29,Melaka,2022-03-06,Regular
+CUST111,Customer_1150,Male,42,Johor,2023-02-09,New
+CUST1207,Customer_1153,Male,59,Melaka,2023-01-02,New
+CUST848,Customer_1154,Female,54,Penang,2023-05-03,Regular
+CUST1936,Customer_1158,Female,24,Pahang,2022-01-23,VIP
+CUST1544,Customer_1159,Female,35,Perak,2022-03-04,Regular
+CUST360,Customer_1161,Female,45,Johor,2023-08-18,Regular
+CUST1720,Customer_1163,Female,52,Melaka,2022-04-27,New
+CUST281,Customer_1164,Male,27,Negeri Sembilan,2023-04-08,VIP
+CUST1888,Customer_1166,Male,36,Pahang,2023-03-27,VIP
+CUST667,Customer_1168,Female,45,Perak,2022-12-03,New
+CUST93,Customer_1169,Male,20,Pahang,2023-08-29,New
+CUST61,Customer_1172,Male,34,Sarawak,2022-10-17,New
+CUST1075,Customer_1174,Female,59,Selangor,2023-03-03,New
+CUST1813,Customer_1176,Female,39,Pahang,2023-10-13,Regular
+CUST1490,Customer_1178,Female,44,Sabah,2023-04-16,Regular
+CUST604,Customer_1179,Male,52,Melaka,2023-02-13,Regular
+CUST534,Customer_1182,Male,58,Perak,2022-10-17,Regular
+CUST1429,Customer_1183,Male,37,Sarawak,2023-01-09,Regular
+CUST645,Customer_1186,Male,25,Johor,2023-08-10,VIP
+CUST233,Customer_1187,Female,44,Melaka,2022-11-18,Regular
+CUST524,Customer_1188,Male,23,Negeri Sembilan,2023-11-25,New
+CUST1969,Customer_1192,Female,37,Negeri Sembilan,2023-10-26,New
+CUST1754,Customer_1194,Female,58,Pahang,2023-03-14,Regular
+CUST1097,Customer_1197,Female,56,Pahang,2023-05-12,New
+CUST794,Customer_1198,Female,27,Kuala Lumpur,2023-02-23,New
+CUST1145,Customer_1201,Female,52,Selangor,2022-10-25,Regular
+CUST214,Customer_1202,Female,54,Kuala Lumpur,2022-10-05,New
+CUST239,Customer_1203,Male,55,Johor,2022-01-31,Regular
+CUST1080,Customer_1204,Male,40,Selangor,2022-02-20,Regular
+CUST350,Customer_1205,Male,54,Sabah,2023-11-08,Regular
+CUST107,Customer_1206,Male,38,Johor,2023-08-24,New
+CUST48,Customer_1208,Female,18,Pahang,2022-06-08,Regular
+CUST1597,Customer_1209,Male,26,Johor,2022-04-10,New
+CUST337,Customer_1210,Male,20,Melaka,2022-05-22,VIP
+CUST1050,Customer_1211,Male,55,Sabah,2022-04-27,Regular
+CUST804,Customer_1212,Male,53,Selangor,2023-04-13,Regular
+CUST1281,Customer_1213,Female,51,Perak,2022-02-08,New
+CUST8,Customer_1214,Male,47,Sabah,2022-12-14,New
+CUST625,Customer_1215,Female,48,Johor,2022-06-15,New
+CUST719,Customer_1219,Female,23,Pahang,2023-05-19,New
+CUST303,Customer_1220,Male,31,Sabah,2022-11-19,Regular
+CUST639,Customer_1221,Female,27,Negeri Sembilan,2023-05-17,New
+CUST56,Customer_1222,Male,41,Sarawak,2022-06-04,New
+CUST526,Customer_1224,Male,41,Sabah,2022-01-23,Regular
+CUST28,Customer_1226,Female,54,Sabah,2022-08-18,New
+CUST78,Customer_1227,Male,57,Sarawak,2023-05-06,Regular
+CUST1240,Customer_1228,Male,55,Kuala Lumpur,2022-05-21,New
+CUST365,Customer_1230,Female,51,Sabah,2022-10-09,New
+CUST666,Customer_1231,Male,18,Melaka,2022-07-25,New
+CUST1336,Customer_1234,Female,46,Sabah,2022-05-14,New
+CUST1031,Customer_1236,Female,22,Melaka,2023-07-18,New
+CUST1027,Customer_1237,Male,51,Penang,2023-05-03,New
+CUST1647,Customer_1238,Male,43,Penang,2023-07-19,VIP
+CUST363,Customer_1241,Male,39,Sarawak,2023-11-18,New
+CUST1655,Customer_1251,Female,33,Melaka,2022-07-12,Regular
+CUST86,Customer_1259,Male,22,Negeri Sembilan,2022-09-14,New
+CUST812,Customer_1262,Female,46,Selangor,2023-02-09,VIP
+CUST537,Customer_1263,Male,55,Selangor,2023-09-22,New
+CUST145,Customer_1264,Female,57,Johor,2022-10-28,Regular
+CUST1236,Customer_1266,Male,41,Selangor,2023-12-25,Regular
+CUST25,Customer_1267,Female,36,Perak,2023-02-17,New
+CUST67,Customer_1270,Female,40,Melaka,2023-09-15,Regular
+CUST1170,Customer_1273,Male,19,Penang,2022-05-26,New
+CUST228,Customer_1275,Female,35,Johor,2023-09-12,Regular
+CUST1494,Customer_1277,Male,56,Negeri Sembilan,2022-05-31,New
+CUST623,Customer_1279,Male,40,Melaka,2023-04-12,New
+CUST595,Customer_1284,Female,34,Penang,2023-09-03,Regular
+CUST425,Customer_1286,Male,30,Selangor,2023-11-04,Regular
+CUST1542,Customer_1288,Female,35,Sarawak,2023-09-26,Regular
+CUST692,Customer_1289,Female,37,Johor,2023-01-28,VIP
+CUST1344,Customer_1291,Male,52,Pahang,2022-07-22,Regular
+CUST1762,Customer_1292,Female,50,Pahang,2023-08-20,Regular
+CUST1467,Customer_1293,Male,34,Sabah,2022-02-28,New
+CUST1976,Customer_1294,Male,52,Johor,2022-07-28,New
+CUST315,Customer_1295,Male,29,Sarawak,2022-01-16,VIP
+CUST1990,Customer_1297,Female,51,Melaka,2023-07-12,VIP
+CUST1765,Customer_1298,Male,29,Sarawak,2022-11-29,Regular
+CUST662,Customer_1302,Male,22,Negeri Sembilan,2022-11-16,Regular
+CUST1606,Customer_1305,Female,49,Negeri Sembilan,2023-07-26,Regular
+CUST1527,Customer_1306,Male,22,Selangor,2022-10-08,Regular
+CUST843,Customer_1310,Female,57,Negeri Sembilan,2022-02-10,New
+CUST1161,Customer_1317,Male,41,Johor,2023-01-26,Regular
+CUST899,Customer_1319,Male,48,Melaka,2022-08-17,New
+CUST243,Customer_1320,Male,27,Perak,2023-05-12,New
+CUST543,Customer_1321,Male,43,Pahang,2023-04-16,VIP
+CUST1064,Customer_1322,Female,46,Kuala Lumpur,2023-08-08,Regular
+CUST229,Customer_1323,Male,19,Melaka,2022-03-24,New
+CUST548,Customer_1324,Female,47,Penang,2022-07-11,Regular
+CUST6,Customer_1327,Male,29,Selangor,2023-04-07,New
+CUST1346,Customer_1328,Male,37,Penang,2023-07-17,New
+CUST468,Customer_1329,Female,58,Selangor,2023-09-03,VIP
+CUST1756,Customer_1330,Male,36,Sarawak,2022-04-11,New
+CUST4,Customer_1332,Male,40,Pahang,2022-08-23,Regular
+CUST1871,Customer_1333,Male,36,Sarawak,2022-11-09,New
+CUST1630,Customer_1337,Female,32,Sarawak,2022-09-20,VIP
+CUST504,Customer_1338,Male,28,Melaka,2022-06-12,New
+CUST947,Customer_1339,Male,43,Johor,2023-09-25,New
+CUST574,Customer_1340,Female,35,Negeri Sembilan,2022-07-16,Regular
+CUST194,Customer_1342,Male,49,Pahang,2023-11-15,Regular
+CUST847,Customer_1343,Female,21,Perak,2023-09-10,Regular
+CUST715,Customer_1344,Female,39,Sabah,2023-04-28,Regular
+CUST1324,Customer_1349,Female,56,Kuala Lumpur,2022-08-11,Regular
+CUST326,Customer_1351,Male,54,Pahang,2023-04-02,Regular
+CUST1434,Customer_1352,Female,22,Selangor,2022-10-13,New
+CUST724,Customer_1356,Female,55,Sabah,2023-08-01,Regular
+CUST225,Customer_1357,Male,51,Selangor,2023-07-27,Regular
+CUST532,Customer_1358,Female,32,Selangor,2023-03-21,VIP
+CUST140,Customer_1360,Male,44,Selangor,2022-11-29,VIP
+CUST559,Customer_1361,Male,18,Pahang,2022-04-25,VIP
+CUST320,Customer_1365,Male,24,Kuala Lumpur,2023-10-03,Regular
+CUST1574,Customer_1366,Male,46,Johor,2023-08-09,New
+CUST1829,Customer_1367,Female,48,Penang,2023-06-21,New
+CUST1918,Customer_1368,Female,55,Johor,2022-01-14,Regular
+CUST139,Customer_1369,Female,25,Perak,2022-07-28,New
+CUST1892,Customer_1371,Female,54,Penang,2022-01-21,New
+CUST845,Customer_1372,Male,32,Penang,2022-04-01,New
+CUST259,Customer_1373,Female,49,Johor,2023-07-15,Regular
+CUST902,Customer_1375,Male,28,Sarawak,2022-01-22,New
+CUST261,Customer_1378,Female,50,Sabah,2022-06-05,New
+CUST1943,Customer_1379,Female,34,Perak,2022-06-08,Regular
+CUST1674,Customer_1380,Male,50,Melaka,2022-03-28,Regular
+CUST172,Customer_1381,Female,19,Sabah,2022-12-03,Regular
+CUST13,Customer_1383,Female,29,Selangor,2023-12-22,New
+CUST1666,Customer_1385,Male,59,Pahang,2023-11-09,VIP
+CUST1620,Customer_1386,Male,59,Sabah,2022-01-10,VIP
+CUST1343,Customer_1388,Female,59,Negeri Sembilan,2022-09-15,New
+CUST329,Customer_1390,Male,19,Sarawak,2022-05-13,Regular
+CUST911,Customer_1394,Female,50,Selangor,2022-10-03,Regular
+CUST1443,Customer_1397,Male,21,Negeri Sembilan,2022-11-20,New
+CUST1119,Customer_1399,Female,20,Kuala Lumpur,2022-07-04,Regular
+CUST1841,Customer_1400,Female,35,Perak,2023-06-17,New
+CUST1605,Customer_1401,Female,44,Johor,2022-01-17,Regular
+CUST1980,Customer_1403,Male,20,Negeri Sembilan,2022-01-27,New
+CUST334,Customer_1406,Female,39,Selangor,2023-04-21,Regular
+CUST376,Customer_1408,Male,46,Melaka,2023-12-27,VIP
+CUST1954,Customer_1411,Male,36,Johor,2023-12-11,Regular
+CUST1320,Customer_1415,Female,48,Johor,2023-09-17,New
+CUST918,Customer_1417,Female,26,Pahang,2023-10-12,Regular
+CUST1856,Customer_1419,Female,38,Selangor,2022-04-14,New
+CUST1852,Customer_1426,Female,33,Kuala Lumpur,2022-07-24,VIP
+CUST1315,Customer_1428,Male,55,Kuala Lumpur,2022-05-09,New
+CUST725,Customer_1429,Female,58,Negeri Sembilan,2022-06-20,New
+CUST1403,Customer_1433,Female,29,Selangor,2023-06-28,VIP
+CUST132,Customer_1437,Female,25,Perak,2022-11-10,New
+CUST89,Customer_1441,Female,20,Sabah,2022-10-11,New
+CUST1319,Customer_1445,Male,22,Sabah,2023-04-09,New
+CUST616,Customer_1446,Male,29,Perak,2023-08-23,New
+CUST800,Customer_1448,Male,43,Perak,2023-10-12,Regular
+CUST1661,Customer_1450,Female,46,Pahang,2023-03-22,New
+CUST422,Customer_1451,Female,31,Sabah,2022-10-20,New
+CUST1889,Customer_1452,Male,53,Perak,2023-08-26,New
+CUST143,Customer_1455,Female,33,Perak,2023-01-06,VIP
+CUST665,Customer_1457,Female,33,Negeri Sembilan,2022-06-29,New
+CUST1007,Customer_1460,Female,25,Negeri Sembilan,2023-12-03,New
+CUST1986,Customer_1462,Female,22,Sarawak,2023-06-25,New
+CUST821,Customer_1464,Female,55,Selangor,2023-10-24,New
+CUST1640,Customer_1465,Male,19,Sarawak,2022-12-03,Regular
+CUST1971,Customer_1467,Male,47,Sabah,2022-08-07,New
+CUST1670,Customer_1471,Female,45,Melaka,2022-01-16,Regular
+CUST579,Customer_1472,Male,47,Negeri Sembilan,2022-07-01,New
+CUST391,Customer_1473,Female,48,Kuala Lumpur,2023-11-28,New
+CUST1203,Customer_1474,Male,41,Johor,2023-07-02,VIP
+CUST554,Customer_1476,Male,28,Selangor,2022-05-30,New
+CUST1472,Customer_1477,Female,59,Melaka,2023-05-03,VIP
+CUST1524,Customer_1478,Male,33,Negeri Sembilan,2023-02-25,New
+CUST1693,Customer_1481,Female,29,Melaka,2023-09-17,VIP
+CUST478,Customer_1483,Male,50,Kuala Lumpur,2023-07-21,Regular
+CUST923,Customer_1485,Female,18,Selangor,2022-10-21,New
+CUST420,Customer_1486,Female,30,Sarawak,2023-12-29,Regular
+CUST157,Customer_1487,Male,54,Kuala Lumpur,2022-06-11,New
+CUST550,Customer_1488,Female,52,Melaka,2023-06-07,New
+CUST1121,Customer_1490,Female,59,Johor,2022-09-27,New
+CUST951,Customer_1494,Male,52,Selangor,2023-09-11,Regular
+CUST196,Customer_1497,Female,58,Sabah,2023-06-30,New
+CUST598,Customer_1498,Male,48,Johor,2022-03-06,Regular
+CUST1858,Customer_1499,Female,49,Selangor,2022-08-03,New
+CUST1546,Customer_1500,Female,36,Pahang,2022-12-27,New
+CUST517,Customer_1501,Female,34,Sabah,2022-11-08,VIP
+CUST1659,Customer_1502,Female,23,Sarawak,2022-03-11,Regular
+CUST865,Customer_1504,Female,50,Negeri Sembilan,2022-08-04,New
+CUST1933,Customer_1507,Female,52,Perak,2022-08-07,Regular
+CUST1183,Customer_1508,Female,49,Negeri Sembilan,2023-02-13,New
+CUST1901,Customer_1511,Female,49,Negeri Sembilan,2022-08-05,VIP
+CUST216,Customer_1512,Female,49,Sabah,2022-04-16,New
+CUST1285,Customer_1518,Female,27,Kuala Lumpur,2023-05-07,VIP
+CUST324,Customer_1521,Male,40,Selangor,2023-03-13,Regular
+CUST844,Customer_1522,Female,24,Johor,2023-09-06,Regular
+CUST1709,Customer_1523,Female,38,Negeri Sembilan,2023-11-30,Regular
+CUST130,Customer_1524,Female,18,Melaka,2023-02-18,Regular
+CUST627,Customer_1527,Female,37,Selangor,2023-06-07,VIP
+CUST755,Customer_1528,Female,27,Perak,2023-02-05,New
+CUST1316,Customer_1530,Female,18,Johor,2022-02-19,New
+CUST11,Customer_1536,Male,32,Sabah,2022-04-20,Regular
+CUST1158,Customer_1541,Female,35,Sabah,2023-10-27,Regular
+CUST712,Customer_1542,Male,35,Melaka,2023-08-13,New
+CUST141,Customer_1550,Male,40,Selangor,2022-03-18,New
+CUST1234,Customer_1553,Male,56,Pahang,2022-01-23,New
+CUST985,Customer_1554,Female,35,Perak,2022-03-06,Regular
+CUST683,Customer_1559,Male,30,Melaka,2022-05-21,New
+CUST1484,Customer_1560,Male,36,Sabah,2022-06-26,VIP
+CUST356,Customer_1562,Female,44,Johor,2023-10-12,Regular
+CUST1008,Customer_1563,Male,34,Sabah,2022-05-11,New
+CUST1348,Customer_1564,Female,46,Penang,2023-06-24,Regular
+CUST888,Customer_1566,Male,45,Negeri Sembilan,2022-12-07,New
+CUST127,Customer_1569,Female,33,Perak,2022-01-12,New
+CUST1823,Customer_1573,Male,34,Kuala Lumpur,2022-10-11,VIP
+CUST1402,Customer_1574,Female,37,Sarawak,2023-02-14,New
+CUST1929,Customer_1575,Female,35,Perak,2023-11-23,New
+CUST1014,Customer_1576,Male,45,Kuala Lumpur,2023-04-03,Regular
+CUST1053,Customer_1578,Female,33,Sarawak,2022-05-30,New
+CUST1321,Customer_1581,Female,22,Johor,2022-07-10,New
+CUST1750,Customer_1582,Female,54,Sabah,2022-08-30,Regular
+CUST779,Customer_1583,Female,35,Penang,2023-08-22,Regular
+CUST814,Customer_1586,Male,39,Perak,2023-01-02,New
+CUST1646,Customer_1590,Female,20,Sarawak,2023-03-08,New
+CUST983,Customer_1593,Male,34,Negeri Sembilan,2022-12-22,Regular
+CUST825,Customer_1594,Female,20,Sabah,2023-04-25,New
+CUST1855,Customer_1596,Male,57,Perak,2023-02-28,Regular
+CUST1974,Customer_1597,Female,33,Sarawak,2023-01-19,New
+CUST567,Customer_1598,Male,29,Perak,2022-08-02,New
+CUST371,Customer_1599,Male,18,Negeri Sembilan,2023-11-30,Regular
+CUST1935,Customer_1601,Male,34,Sarawak,2023-12-09,Regular
+CUST661,Customer_1602,Female,36,Johor,2023-12-02,Regular
+CUST1455,Customer_1603,Female,21,Selangor,2022-09-18,Regular
+CUST969,Customer_1604,Female,56,Johor,2022-01-07,Regular
+CUST313,Customer_1609,Female,34,Sarawak,2023-12-24,Regular
+CUST1690,Customer_1611,Male,58,Sarawak,2023-05-07,Regular
+CUST937,Customer_1612,Female,45,Sabah,2023-11-16,New
+CUST1827,Customer_1613,Female,33,Negeri Sembilan,2022-12-24,Regular
+CUST244,Customer_1615,Female,45,Sabah,2023-04-26,New
+CUST1830,Customer_1619,Female,56,Sabah,2022-06-12,New
+CUST347,Customer_1625,Female,22,Perak,2023-02-28,Regular
+CUST1553,Customer_1626,Male,56,Perak,2023-12-02,New
+CUST939,Customer_1628,Female,34,Kuala Lumpur,2022-09-04,New
+CUST1991,Customer_1636,Male,25,Penang,2023-07-23,New
+CUST1880,Customer_1640,Female,42,Melaka,2023-07-20,New
+CUST156,Customer_1648,Female,46,Melaka,2023-11-26,New
+CUST1906,Customer_1649,Female,46,Penang,2023-03-10,Regular
+CUST967,Customer_1652,Male,38,Selangor,2022-04-26,Regular
+CUST1108,Customer_1654,Male,37,Sarawak,2023-10-30,New
+CUST148,Customer_1657,Male,43,Kuala Lumpur,2023-06-04,VIP
+CUST1654,Customer_1658,Male,24,Selangor,2022-04-06,New
+CUST342,Customer_1659,Male,33,Pahang,2022-01-28,Regular
+CUST1384,Customer_1663,Female,30,Perak,2022-05-14,New
+CUST561,Customer_1664,Male,22,Sarawak,2023-04-22,New
+CUST327,Customer_1665,Male,33,Johor,2023-07-11,New
+CUST1165,Customer_1668,Female,45,Sabah,2023-11-30,Regular
+CUST215,Customer_1670,Male,46,Negeri Sembilan,2023-11-17,VIP
+CUST723,Customer_1674,Female,39,Negeri Sembilan,2022-12-19,VIP
+CUST1342,Customer_1675,Female,32,Negeri Sembilan,2022-02-10,Regular
+CUST32,Customer_1676,Female,30,Sabah,2022-04-07,New
+CUST670,Customer_1677,Male,39,Penang,2022-08-25,Regular
+CUST429,Customer_1680,Male,18,Selangor,2023-04-07,New
+CUST286,Customer_1682,Female,18,Negeri Sembilan,2022-11-29,Regular
+CUST1448,Customer_1684,Male,26,Sabah,2023-02-19,New
+CUST590,Customer_1688,Male,35,Perak,2023-07-29,Regular
+CUST1395,Customer_1689,Male,50,Penang,2023-06-25,New
+CUST1199,Customer_1690,Female,19,Selangor,2023-01-06,New
+CUST1010,Customer_1691,Male,51,Negeri Sembilan,2022-03-05,New
+CUST988,Customer_1694,Female,19,Pahang,2022-05-06,New
+CUST114,Customer_1696,Male,32,Johor,2022-07-27,Regular
+CUST1246,Customer_1697,Male,28,Perak,2022-12-18,Regular
+CUST1702,Customer_1698,Male,33,Penang,2023-05-17,New
+CUST1668,Customer_1701,Female,39,Melaka,2022-02-25,New
+CUST1921,Customer_1702,Male,20,Penang,2022-04-24,New
+CUST1288,Customer_1703,Female,20,Johor,2023-12-24,Regular
+CUST55,Customer_1705,Female,23,Johor,2022-10-23,New
+CUST1895,Customer_1706,Female,42,Sarawak,2022-09-14,Regular
+CUST1667,Customer_1707,Female,58,Sarawak,2022-06-19,New
+CUST778,Customer_1709,Female,47,Sabah,2022-05-09,VIP
+CUST1404,Customer_1713,Male,52,Selangor,2023-02-19,Regular
+CUST87,Customer_1714,Female,43,Sarawak,2022-09-14,Regular
+CUST1415,Customer_1719,Male,58,Kuala Lumpur,2022-08-25,New
+CUST833,Customer_1722,Male,26,Pahang,2022-12-18,New
+CUST443,Customer_1726,Female,28,Negeri Sembilan,2023-09-05,New
+CUST1791,Customer_1727,Male,47,Sarawak,2023-04-06,New
+CUST328,Customer_1728,Male,28,Penang,2022-06-02,New
+CUST1442,Customer_1739,Male,45,Penang,2022-01-24,Regular
+CUST1112,Customer_1742,Female,23,Negeri Sembilan,2022-10-13,VIP
+CUST491,Customer_1747,Female,35,Sabah,2022-08-28,New
+CUST452,Customer_1749,Male,56,Kuala Lumpur,2022-05-26,Regular
+CUST165,Customer_1751,Female,43,Sarawak,2022-11-08,New
+CUST182,Customer_1752,Male,28,Johor,2022-11-04,New
+CUST469,Customer_1753,Female,33,Sarawak,2023-09-22,New
+CUST910,Customer_1754,Male,36,Perak,2023-09-18,New
+CUST944,Customer_1757,Female,20,Penang,2023-05-28,Regular
+CUST7,Customer_1758,Female,42,Negeri Sembilan,2022-01-20,New
+CUST330,Customer_1759,Male,27,Johor,2022-09-17,VIP
+CUST775,Customer_1760,Female,22,Perak,2023-09-06,Regular
+CUST1648,Customer_1765,Male,29,Johor,2023-10-03,New
+CUST1405,Customer_1766,Female,48,Sabah,2022-05-08,Regular
+CUST915,Customer_1767,Male,34,Melaka,2022-04-24,Regular
+CUST82,Customer_1771,Female,43,Selangor,2023-12-10,New
+CUST514,Customer_1772,Male,48,Melaka,2022-06-20,New
+CUST1547,Customer_1777,Male,27,Melaka,2023-11-06,VIP
+CUST746,Customer_1778,Female,22,Kuala Lumpur,2023-06-19,New
+CUST1023,Customer_1779,Female,21,Kuala Lumpur,2023-12-03,New
+CUST707,Customer_1781,Male,32,Johor,2022-06-14,Regular
+CUST905,Customer_1791,Female,31,Negeri Sembilan,2023-04-04,New
+CUST1250,Customer_1792,Female,48,Johor,2022-08-26,New
+CUST940,Customer_1794,Female,30,Selangor,2022-12-11,New
+CUST1388,Customer_1799,Female,33,Pahang,2022-12-18,Regular
+CUST1304,Customer_1800,Female,18,Pahang,2022-11-28,Regular
+CUST1182,Customer_1803,Female,37,Perak,2023-03-20,VIP
+CUST632,Customer_1804,Female,23,Kuala Lumpur,2023-09-09,Regular
+CUST59,Customer_1805,Female,52,Selangor,2023-08-20,VIP
+CUST721,Customer_1809,Female,24,Melaka,2023-06-11,New
+CUST1139,Customer_1811,Female,47,Pahang,2022-08-14,VIP
+CUST1233,Customer_1812,Female,39,Pahang,2023-05-15,VIP
+CUST552,Customer_1815,Male,20,Selangor,2023-10-15,New
+CUST237,Customer_1817,Female,22,Penang,2022-06-16,New
+CUST1305,Customer_1818,Male,59,Negeri Sembilan,2022-04-25,VIP
+CUST1302,Customer_1822,Male,54,Pahang,2022-05-20,New
+CUST1259,Customer_1823,Male,21,Negeri Sembilan,2022-03-18,New
+CUST494,Customer_1824,Female,37,Perak,2022-02-19,VIP
+CUST1133,Customer_1829,Male,28,Sarawak,2023-04-30,Regular
+CUST610,Customer_1830,Female,26,Kuala Lumpur,2022-07-27,Regular
+CUST1877,Customer_1837,Female,47,Sabah,2023-10-31,New
+CUST42,Customer_1838,Female,49,Johor,2022-04-21,Regular
+CUST1380,Customer_1839,Male,53,Kuala Lumpur,2023-01-30,New
+CUST1041,Customer_1843,Female,32,Johor,2022-06-26,New
+CUST1177,Customer_1845,Female,24,Negeri Sembilan,2023-05-28,New
+CUST998,Customer_1846,Female,50,Pahang,2022-10-15,VIP
+CUST1623,Customer_1849,Female,52,Pahang,2022-05-10,Regular
+CUST1653,Customer_1850,Female,38,Sabah,2023-12-15,New
+CUST1898,Customer_1851,Male,41,Pahang,2023-11-02,Regular
+CUST1311,Customer_1855,Female,46,Penang,2023-07-12,New
+CUST731,Customer_1857,Female,28,Perak,2022-01-03,Regular
+CUST168,Customer_1858,Male,20,Kuala Lumpur,2022-05-21,VIP
+CUST906,Customer_1864,Female,44,Penang,2023-09-03,VIP
+CUST922,Customer_1867,Female,57,Penang,2022-12-24,New
+CUST702,Customer_1870,Male,55,Kuala Lumpur,2022-03-23,VIP
+CUST1600,Customer_1873,Male,44,Negeri Sembilan,2023-12-30,Regular
+CUST1387,Customer_1877,Male,55,Negeri Sembilan,2023-07-04,New
+CUST1729,Customer_1878,Male,29,Selangor,2023-10-22,Regular
+CUST819,Customer_1879,Female,32,Selangor,2023-04-20,Regular
+CUST693,Customer_1880,Male,47,Perak,2022-08-11,New
+CUST149,Customer_1885,Female,19,Selangor,2022-08-27,New
+CUST807,Customer_1893,Male,21,Sabah,2022-06-30,New
+CUST744,Customer_1894,Male,27,Perak,2023-01-09,Regular
+CUST1334,Customer_1896,Male,45,Johor,2022-12-27,New
+CUST758,Customer_1901,Male,37,Pahang,2023-02-26,Regular
+CUST406,Customer_1902,Female,35,Johor,2023-02-03,Regular
+CUST1491,Customer_1910,Female,48,Johor,2022-08-07,Regular
+CUST1515,Customer_1913,Male,25,Sabah,2022-02-10,Regular
+CUST1873,Customer_1914,Male,42,Pahang,2023-01-05,New
+CUST1531,Customer_1916,Female,28,Melaka,2023-06-23,New
+CUST482,Customer_1918,Female,18,Perak,2022-11-17,VIP
+CUST73,Customer_1923,Female,46,Pahang,2022-01-22,New
+CUST713,Customer_1924,Male,27,Penang,2023-06-23,Regular
+CUST1522,Customer_1937,Male,34,Melaka,2023-05-30,New
+CUST108,Customer_1939,Female,26,Sarawak,2023-06-14,Regular
+CUST1502,Customer_1942,Male,50,Penang,2023-10-01,New
+CUST102,Customer_1943,Male,56,Negeri Sembilan,2022-12-01,New
+CUST866,Customer_1944,Male,20,Sarawak,2022-04-14,New
+CUST275,Customer_1946,Female,26,Melaka,2022-12-24,New
+CUST1068,Customer_1948,Female,53,Pahang,2022-11-26,New
+CUST1979,Customer_1949,Female,36,Kuala Lumpur,2023-09-12,Regular
+CUST817,Customer_1950,Female,51,Selangor,2023-01-24,Regular
+CUST1593,Customer_1954,Male,50,Pahang,2023-08-20,New
+CUST1847,Customer_1955,Male,43,Melaka,2023-02-14,Regular
+CUST1616,Customer_1960,Male,45,Sabah,2022-06-01,New
+CUST1224,Customer_1971,Female,51,Perak,2023-08-18,New
+CUST1561,Customer_1972,Female,37,Penang,2022-07-09,New
+CUST466,Customer_1973,Female,41,Sarawak,2022-09-14,Regular
+CUST1113,Customer_1974,Male,20,Johor,2023-04-21,Regular
+CUST1595,Customer_1977,Male,46,Perak,2023-09-16,Regular
+CUST1562,Customer_1981,Male,42,Sarawak,2022-10-25,VIP
+CUST711,Customer_1986,Male,48,Sarawak,2022-07-18,Regular
+CUST1818,Customer_1989,Female,18,Kuala Lumpur,2023-01-09,VIP
+CUST1806,Customer_1994,Female,35,Penang,2023-03-21,VIP
+CUST335,Customer_1995,Female,42,Sabah,2023-11-28,Regular
+CUST629,Customer_1996,Female,53,Penang,2022-06-22,Regular
+CUST137,Customer_1998,Female,26,Penang,2022-03-29,New
+CUST594,Customer_2006,Female,37,Johor,2022-04-23,VIP
+CUST372,Customer_2009,Male,27,Melaka,2023-12-07,Regular
+CUST995,Customer_2011,Female,22,Johor,2023-01-24,New
+CUST615,Customer_2015,Female,53,Perak,2023-05-26,VIP
+CUST1176,Customer_2019,Female,45,Sarawak,2023-02-14,New
+CUST620,Customer_2021,Female,53,Selangor,2023-08-02,Regular
+CUST1122,Customer_2024,Female,26,Selangor,2022-12-16,VIP
+CUST986,Customer_2029,Male,52,Perak,2022-12-06,New
+CUST183,Customer_2030,Male,50,Selangor,2022-03-01,Regular
+CUST364,Customer_2032,Male,37,Perak,2023-11-04,Regular
+CUST1551,Customer_2034,Female,39,Sabah,2023-12-06,Regular
+CUST1912,Customer_2035,Female,42,Kuala Lumpur,2023-06-29,Regular
+CUST1421,Customer_2041,Male,26,Johor,2023-04-11,New
+CUST722,Customer_2042,Male,39,Negeri Sembilan,2023-05-18,New
+CUST16,Customer_2044,Male,38,Melaka,2023-12-31,VIP
+CUST1450,Customer_2046,Male,58,Perak,2023-09-25,VIP
+CUST1132,Customer_2047,Male,34,Kuala Lumpur,2022-05-24,New
+CUST894,Customer_2048,Male,32,Negeri Sembilan,2023-10-18,New
+CUST311,Customer_2050,Male,24,Pahang,2022-10-22,New
+CUST1194,Customer_2052,Female,25,Kuala Lumpur,2023-05-10,Regular
+CUST414,Customer_2054,Female,50,Sabah,2022-05-31,New
+CUST251,Customer_2055,Male,53,Negeri Sembilan,2022-01-26,Regular
+CUST1805,Customer_2057,Female,18,Johor,2023-09-06,New
+CUST245,Customer_2070,Female,37,Perak,2022-05-21,New
+CUST272,Customer_2073,Female,41,Pahang,2022-02-16,Regular
+CUST1464,Customer_2074,Male,28,Kuala Lumpur,2022-10-30,Regular
+CUST1772,Customer_2075,Female,59,Johor,2023-07-31,New
+CUST377,Customer_2077,Male,55,Perak,2023-02-17,New
+CUST266,Customer_2078,Male,34,Sarawak,2022-12-01,VIP
+CUST926,Customer_2079,Male,22,Pahang,2023-01-09,VIP
+CUST340,Customer_2082,Male,31,Selangor,2023-08-22,Regular
+CUST577,Customer_2084,Male,59,Penang,2022-01-05,Regular
+CUST3,Customer_2086,Male,48,Pahang,2023-07-07,New
+CUST1453,Customer_2087,Female,35,Kuala Lumpur,2023-02-08,Regular
+CUST1166,Customer_2088,Male,56,Kuala Lumpur,2023-11-10,New
+CUST293,Customer_2094,Female,47,Negeri Sembilan,2022-05-31,VIP
+CUST705,Customer_2097,Female,22,Kuala Lumpur,2022-01-13,Regular
+CUST949,Customer_2098,Male,46,Melaka,2022-04-20,New
+CUST585,Customer_2100,Male,20,Kuala Lumpur,2022-12-25,New
+CUST399,Customer_2101,Female,47,Johor,2023-03-28,New
+CUST1913,Customer_2103,Female,58,Penang,2023-11-23,VIP
+CUST964,Customer_2105,Male,37,Sarawak,2022-05-02,New
+CUST1164,Customer_2106,Male,43,Selangor,2022-04-02,New
+CUST1086,Customer_2119,Male,25,Sabah,2022-02-17,New
+CUST1869,Customer_2120,Female,47,Selangor,2023-02-25,VIP
+CUST772,Customer_2125,Female,37,Melaka,2022-08-07,Regular
+CUST1608,Customer_2127,Male,41,Perak,2022-04-12,VIP
+CUST1390,Customer_2135,Female,50,Melaka,2023-12-21,New
+CUST753,Customer_2142,Male,39,Sabah,2022-01-29,Regular
+CUST506,Customer_2143,Female,40,Sabah,2022-07-24,VIP
+CUST1545,Customer_2153,Female,43,Sabah,2023-01-06,New
+CUST1044,Customer_2155,Male,49,Negeri Sembilan,2022-06-17,Regular
+CUST1914,Customer_2156,Male,51,Sabah,2022-12-17,VIP
+CUST1777,Customer_2157,Male,40,Selangor,2023-05-30,New
+CUST850,Customer_2163,Male,51,Negeri Sembilan,2022-12-01,Regular
+CUST781,Customer_2170,Male,37,Sarawak,2023-11-30,New
+CUST893,Customer_2172,Male,34,Johor,2022-08-23,Regular
+CUST580,Customer_2175,Female,21,Sarawak,2023-02-28,Regular
+CUST1381,Customer_2177,Female,39,Johor,2023-06-30,New
+CUST1291,Customer_2179,Male,18,Perak,2022-06-22,New
+CUST1641,Customer_2180,Male,58,Sarawak,2023-08-26,Regular
+CUST635,Customer_2183,Female,25,Penang,2022-07-03,New
+CUST1565,Customer_2185,Female,41,Sarawak,2023-10-04,New
+CUST1673,Customer_2186,Male,18,Selangor,2023-02-28,New
+CUST1356,Customer_2190,Male,22,Sabah,2023-06-04,VIP
+CUST1487,Customer_2193,Male,19,Melaka,2023-07-15,Regular
+CUST40,Customer_2194,Female,59,Pahang,2023-07-22,Regular
+CUST1419,Customer_2197,Female,26,Selangor,2022-10-14,Regular
+CUST975,Customer_2202,Male,36,Sarawak,2023-10-19,Regular
+CUST1925,Customer_2206,Female,22,Negeri Sembilan,2023-12-24,VIP
+CUST454,Customer_2210,Female,25,Sarawak,2022-05-06,New
+CUST1712,Customer_2213,Male,53,Pahang,2023-10-05,Regular
+CUST1989,Customer_2216,Male,34,Melaka,2023-08-11,Regular
+CUST1138,Customer_2219,Male,25,Johor,2022-08-23,New
+CUST349,Customer_2224,Male,34,Melaka,2022-07-03,New
+CUST1592,Customer_2228,Male,28,Sabah,2022-05-21,Regular
+CUST1890,Customer_2230,Female,26,Sabah,2022-07-01,Regular
+CUST1883,Customer_2232,Male,55,Perak,2022-09-16,Regular
+CUST1286,Customer_2236,Male,59,Johor,2023-11-29,Regular
+CUST1171,Customer_2238,Male,21,Johor,2023-10-21,Regular
+CUST353,Customer_2242,Male,57,Perak,2022-05-18,New
+CUST571,Customer_2243,Female,41,Sarawak,2022-11-25,New
+CUST1369,Customer_2250,Female,42,Sarawak,2023-09-29,Regular
+CUST1691,Customer_2255,Male,32,Johor,2023-12-14,New
+CUST1055,Customer_2264,Male,22,Johor,2022-10-19,New
+CUST535,Customer_2265,Male,59,Negeri Sembilan,2022-01-09,VIP
+CUST426,Customer_2266,Female,59,Pahang,2023-12-21,New
+CUST1951,Customer_2273,Male,42,Negeri Sembilan,2023-10-27,Regular
+CUST1282,Customer_2276,Female,34,Johor,2023-01-05,Regular
+CUST1742,Customer_2277,Female,19,Johor,2023-12-21,Regular
+CUST589,Customer_2278,Female,32,Johor,2022-08-13,VIP
+CUST1548,Customer_2279,Female,55,Kuala Lumpur,2023-03-20,Regular
+CUST295,Customer_2280,Male,46,Sarawak,2023-01-10,VIP
+CUST1248,Customer_2282,Female,35,Selangor,2022-05-26,New
+CUST448,Customer_2293,Male,28,Kuala Lumpur,2022-10-29,Regular
+CUST856,Customer_2294,Male,46,Penang,2022-09-16,VIP
+CUST675,Customer_2296,Male,34,Sarawak,2022-03-03,Regular
+CUST586,Customer_2302,Female,50,Pahang,2023-12-18,New
+CUST994,Customer_2305,Female,24,Perak,2023-08-05,New
+CUST1436,Customer_2307,Female,54,Kuala Lumpur,2023-05-11,New
+CUST572,Customer_2308,Female,26,Penang,2022-12-11,New
+CUST989,Customer_2312,Female,48,Pahang,2023-01-01,New
+CUST278,Customer_2313,Male,32,Melaka,2023-02-04,New
+CUST916,Customer_2315,Female,30,Pahang,2022-08-22,Regular
+CUST484,Customer_2317,Female,50,Pahang,2022-03-05,New
+CUST210,Customer_2332,Female,53,Sabah,2023-11-06,Regular
+CUST306,Customer_2333,Male,50,Penang,2022-12-06,Regular
+CUST1294,Customer_2334,Male,46,Pahang,2022-07-17,New
+CUST716,Customer_2338,Male,43,Sarawak,2022-09-30,New
+CUST381,Customer_2343,Male,56,Sarawak,2022-01-03,Regular
+CUST907,Customer_2347,Male,44,Melaka,2023-01-20,New
+CUST79,Customer_2351,Female,34,Negeri Sembilan,2023-05-14,Regular
+CUST1952,Customer_2352,Male,36,Perak,2023-09-16,Regular
+CUST459,Customer_2354,Female,57,Johor,2023-05-25,New
+CUST1506,Customer_2357,Male,33,Johor,2022-01-07,Regular
+CUST1454,Customer_2358,Male,47,Perak,2022-10-04,VIP
+CUST1513,Customer_2364,Male,33,Melaka,2023-04-03,New
+CUST887,Customer_2367,Male,24,Kuala Lumpur,2023-07-07,Regular
+CUST1711,Customer_2374,Male,20,Negeri Sembilan,2023-08-28,Regular
+CUST974,Customer_2375,Female,26,Perak,2023-09-30,Regular
+CUST1563,Customer_2379,Female,38,Penang,2022-12-07,VIP
+CUST1731,Customer_2380,Male,54,Pahang,2022-05-14,Regular
+CUST1406,Customer_2382,Male,20,Sarawak,2022-02-14,Regular
+CUST2000,Customer_2389,Female,44,Penang,2023-11-08,Regular
+CUST84,Customer_2392,Female,19,Pahang,2022-09-29,VIP
+CUST1477,Customer_2396,Male,54,Melaka,2022-12-12,New
+CUST1186,Customer_2404,Male,40,Melaka,2023-11-04,Regular
+CUST1981,Customer_2405,Female,50,Melaka,2022-11-03,Regular
+CUST793,Customer_2409,Male,26,Perak,2023-04-12,New
+CUST1810,Customer_2412,Female,48,Melaka,2022-04-14,New
+CUST1084,Customer_2418,Female,25,Melaka,2022-07-07,VIP
+CUST430,Customer_2419,Female,57,Melaka,2023-02-24,Regular
+CUST1629,Customer_2422,Female,41,Johor,2023-06-02,New
+CUST520,Customer_2424,Male,36,Sarawak,2022-08-08,Regular
+CUST591,Customer_2425,Female,52,Sabah,2022-05-18,New
+CUST1051,Customer_2426,Male,39,Sabah,2023-10-30,Regular
+CUST1710,Customer_2427,Male,56,Melaka,2022-09-19,VIP
+CUST199,Customer_2429,Female,24,Melaka,2022-10-07,New
+CUST1964,Customer_2433,Female,49,Perak,2023-03-05,New
+CUST1560,Customer_2435,Female,32,Pahang,2023-05-21,New
+CUST378,Customer_2437,Male,38,Sarawak,2022-10-10,Regular
+CUST527,Customer_2441,Female,22,Sabah,2023-12-19,New
+CUST734,Customer_2443,Female,24,Negeri Sembilan,2022-09-20,New
+CUST1260,Customer_2448,Female,23,Melaka,2022-10-29,New
+CUST1764,Customer_2450,Male,22,Sarawak,2023-02-22,New
+CUST1968,Customer_2453,Female,50,Melaka,2022-03-11,VIP
+CUST501,Customer_2459,Male,52,Penang,2022-09-04,Regular
+CUST584,Customer_2463,Male,34,Sabah,2022-05-10,New
+CUST395,Customer_2464,Female,34,Perak,2022-06-07,Regular
+CUST1088,Customer_2465,Male,58,Johor,2022-06-23,Regular
+CUST1741,Customer_2466,Male,37,Melaka,2022-03-09,VIP
+CUST72,Customer_2468,Female,21,Pahang,2023-04-13,New
+CUST274,Customer_2470,Female,32,Melaka,2023-08-08,Regular
+CUST1519,Customer_2474,Male,32,Pahang,2023-07-18,New
+CUST1568,Customer_2477,Male,39,Negeri Sembilan,2022-11-12,Regular
+CUST1449,Customer_2483,Female,52,Johor,2023-11-04,Regular
+CUST1577,Customer_2489,Male,50,Negeri Sembilan,2023-07-15,New
+CUST889,Customer_2492,Female,30,Kuala Lumpur,2022-09-12,Regular
+CUST592,Customer_2496,Female,24,Sabah,2022-06-12,Regular
+CUST673,Customer_2501,Female,41,Sabah,2022-09-02,Regular
+CUST1950,Customer_2512,Female,35,Sarawak,2023-10-06,Regular
+CUST116,Customer_2515,Female,32,Melaka,2023-10-25,New
+CUST1190,Customer_2520,Male,21,Kuala Lumpur,2022-09-20,New
+CUST106,Customer_2527,Male,24,Perak,2022-05-14,Regular
+CUST428,Customer_2529,Male,40,Penang,2022-11-12,Regular
+CUST317,Customer_2533,Male,49,Johor,2022-04-28,Regular
+CUST1926,Customer_2536,Female,53,Negeri Sembilan,2022-05-21,New
+CUST223,Customer_2541,Male,22,Sabah,2022-06-04,Regular
+CUST553,Customer_2543,Male,26,Sabah,2022-03-03,New
+CUST1394,Customer_2544,Female,59,Sabah,2022-07-15,New
+CUST1714,Customer_2548,Male,21,Penang,2023-10-02,New
+CUST1884,Customer_2549,Female,56,Kuala Lumpur,2023-01-31,Regular
+CUST383,Customer_2555,Male,51,Perak,2023-12-08,New
+CUST410,Customer_2564,Female,30,Sabah,2023-03-05,Regular
+CUST515,Customer_2566,Female,53,Sabah,2023-06-13,Regular
+CUST809,Customer_2568,Female,59,Johor,2022-02-26,New
+CUST1724,Customer_2569,Male,48,Sarawak,2022-06-10,New
+CUST874,Customer_2570,Male,36,Sarawak,2023-04-08,Regular
+CUST1928,Customer_2588,Male,31,Sarawak,2023-06-11,VIP
+CUST1757,Customer_2589,Female,57,Sabah,2023-06-06,New
+CUST309,Customer_2591,Female,46,Sabah,2022-09-29,New
+CUST695,Customer_2592,Male,46,Perak,2023-01-16,Regular
+CUST288,Customer_2593,Male,36,Johor,2022-04-08,New
+CUST307,Customer_2594,Male,43,Penang,2022-08-01,Regular
+CUST1836,Customer_2595,Female,57,Sarawak,2022-02-15,Regular
+CUST1747,Customer_2599,Female,48,Perak,2022-05-09,Regular
+CUST549,Customer_2601,Female,48,Sabah,2022-02-15,Regular
+CUST1376,Customer_2602,Male,32,Kuala Lumpur,2023-03-22,Regular
+CUST312,Customer_2603,Female,51,Melaka,2023-04-07,Regular
+CUST924,Customer_2607,Male,42,Sarawak,2023-07-10,Regular
+CUST1738,Customer_2608,Male,54,Perak,2022-09-12,Regular
+CUST862,Customer_2620,Male,54,Perak,2022-10-25,New
+CUST159,Customer_2622,Female,27,Perak,2023-09-05,Regular
+CUST1978,Customer_2623,Female,34,Penang,2023-02-14,New
+CUST24,Customer_2625,Female,18,Melaka,2023-01-01,VIP
+CUST608,Customer_2638,Female,55,Selangor,2022-08-14,VIP
+CUST1274,Customer_2641,Female,19,Perak,2022-01-18,Regular
+CUST932,Customer_2649,Female,18,Johor,2022-06-30,New
+CUST1962,Customer_2652,Male,19,Melaka,2023-01-23,Regular
+CUST186,Customer_2655,Male,40,Pahang,2022-11-09,VIP
+CUST1270,Customer_2656,Male,36,Selangor,2022-06-15,Regular
+CUST637,Customer_2657,Male,35,Sarawak,2023-02-23,Regular
+CUST530,Customer_2661,Female,28,Pahang,2022-09-22,New
+CUST1576,Customer_2662,Female,26,Perak,2023-12-13,Regular
+CUST1761,Customer_2665,Male,30,Sabah,2022-06-23,Regular
+CUST100,Customer_2669,Female,35,Negeri Sembilan,2023-11-14,New
+CUST375,Customer_2678,Male,47,Melaka,2022-10-20,New
+CUST837,Customer_2680,Female,56,Pahang,2022-03-20,VIP
+CUST1958,Customer_2681,Male,40,Negeri Sembilan,2022-07-04,Regular
+CUST1005,Customer_2682,Female,20,Pahang,2023-09-03,Regular
+CUST1526,Customer_2685,Female,46,Melaka,2023-07-11,VIP
+CUST1767,Customer_2694,Female,19,Negeri Sembilan,2022-11-10,Regular
+CUST66,Customer_2700,Female,51,Sarawak,2023-11-02,New
+CUST1473,Customer_2704,Male,33,Johor,2023-10-29,New
+CUST301,Customer_2709,Female,58,Kuala Lumpur,2023-10-31,Regular
+CUST287,Customer_2712,Female,43,Selangor,2023-08-19,New
+CUST1034,Customer_2714,Female,22,Kuala Lumpur,2022-12-29,VIP
+CUST630,Customer_2716,Male,43,Perak,2022-06-10,New
+CUST1994,Customer_2719,Female,40,Perak,2023-05-04,New
+CUST1802,Customer_2721,Female,58,Kuala Lumpur,2022-11-19,New
+CUST1300,Customer_2727,Male,23,Sarawak,2022-05-08,New
+CUST1707,Customer_2729,Male,46,Kuala Lumpur,2023-08-04,Regular
+CUST576,Customer_2733,Male,26,Sabah,2022-02-01,New
+CUST1308,Customer_2735,Female,55,Selangor,2022-12-19,New
+CUST1957,Customer_2738,Female,53,Sarawak,2022-06-17,New
+CUST1656,Customer_2744,Male,20,Johor,2023-06-30,New
+CUST1848,Customer_2746,Female,46,Johor,2022-01-01,Regular
+CUST1743,Customer_2749,Female,56,Selangor,2023-03-25,Regular
+CUST1317,Customer_2760,Male,53,Johor,2022-05-19,Regular
+CUST282,Customer_2762,Female,50,Pahang,2023-12-22,Regular
+CUST119,Customer_2765,Female,31,Pahang,2022-03-23,New
+CUST1059,Customer_2766,Male,53,Kuala Lumpur,2023-11-04,Regular
+CUST1781,Customer_2769,Male,38,Johor,2022-01-07,VIP
+CUST1230,Customer_2775,Female,37,Selangor,2023-02-17,Regular
+CUST276,Customer_2778,Male,40,Penang,2022-03-06,New
+CUST1821,Customer_2787,Male,20,Sabah,2023-04-04,Regular
+CUST1209,Customer_2788,Male,19,Melaka,2022-10-01,VIP
+CUST495,Customer_2792,Female,32,Melaka,2023-09-28,Regular
+CUST427,Customer_2793,Female,57,Kuala Lumpur,2022-05-01,Regular
+CUST1318,Customer_2797,Male,42,Johor,2023-02-05,New
+CUST384,Customer_2800,Female,34,Sabah,2022-10-18,New
+CUST308,Customer_2803,Male,54,Perak,2023-08-15,Regular
+CUST1360,Customer_2804,Female,28,Johor,2023-10-30,New
+CUST1365,Customer_2810,Male,41,Selangor,2023-02-09,New
+CUST129,Customer_2811,Female,48,Sarawak,2023-05-25,New
+CUST669,Customer_2814,Female,30,Perak,2023-11-15,VIP
+CUST1382,Customer_2816,Male,34,Negeri Sembilan,2023-10-03,New
+CUST1826,Customer_2821,Female,24,Sarawak,2023-12-17,Regular
+CUST1217,Customer_2822,Female,47,Kuala Lumpur,2023-10-19,VIP
+CUST987,Customer_2837,Male,51,Selangor,2022-06-08,Regular
+CUST345,Customer_2839,Female,27,Melaka,2023-05-03,New
+CUST1988,Customer_2841,Female,26,Johor,2023-09-21,New
+CUST1678,Customer_2847,Male,28,Kuala Lumpur,2022-02-16,New
+CUST361,Customer_2851,Female,41,Kuala Lumpur,2023-02-06,New
+CUST1609,Customer_2860,Female,31,Selangor,2023-04-04,Regular
+CUST1126,Customer_2875,Male,44,Penang,2023-11-27,New
+CUST1638,Customer_2878,Female,31,Pahang,2022-05-26,Regular
+CUST19,Customer_2879,Female,48,Johor,2022-07-05,Regular
+CUST1478,Customer_2880,Female,51,Pahang,2023-12-11,New
+CUST1001,Customer_2884,Female,41,Sarawak,2023-06-13,Regular
+CUST1303,Customer_2885,Male,51,Penang,2022-08-13,Regular
+CUST917,Customer_2900,Male,48,Melaka,2022-01-26,Regular
+CUST291,Customer_2909,Female,35,Kuala Lumpur,2022-07-22,New
+CUST842,Customer_2917,Male,39,Sarawak,2023-05-21,New
+CUST942,Customer_2919,Female,29,Selangor,2023-05-11,Regular
+CUST1801,Customer_2920,Female,38,Negeri Sembilan,2023-11-07,New
+CUST85,Customer_2922,Female,40,Selangor,2022-02-05,New
+CUST1948,Customer_2928,Male,53,Kuala Lumpur,2023-09-13,VIP
+CUST1245,Customer_2930,Male,35,Selangor,2022-06-04,New
+CUST1178,Customer_2931,Female,44,Negeri Sembilan,2023-05-04,Regular
+CUST304,Customer_2935,Female,37,Sabah,2023-02-26,New
+CUST783,Customer_2940,Female,41,Penang,2022-12-01,New
+CUST343,Customer_2943,Male,26,Selangor,2023-06-20,New
+CUST1838,Customer_2945,Male,23,Selangor,2022-04-27,VIP
+CUST498,Customer_2946,Female,48,Pahang,2022-03-04,New
+CUST619,Customer_2953,Male,26,Johor,2023-04-01,New
+CUST789,Customer_2966,Male,31,Kuala Lumpur,2023-06-20,Regular
+CUST787,Customer_2969,Male,53,Negeri Sembilan,2023-04-02,New
+CUST1358,Customer_2971,Female,37,Melaka,2023-02-04,New
+CUST1917,Customer_2972,Female,46,Penang,2022-05-10,Regular
+CUST1180,Customer_2981,Male,53,Melaka,2023-01-12,VIP
+CUST1682,Customer_2988,Female,55,Perak,2022-09-07,Regular
+CUST644,Customer_2992,Female,55,Sabah,2022-07-16,Regular
+CUST1287,Customer_2997,Female,24,Pahang,2022-02-25,New
+CUST1375,Customer_2998,Male,23,Selangor,2022-07-02,VIP
+CUST1610,Customer_3000,Female,33,Sabah,2022-08-02,New
+CUST1607,Customer_3004,Female,22,Selangor,2022-06-25,New
+CUST298,Customer_3010,Female,30,Johor,2023-12-06,New
+CUST1476,Customer_3014,Male,20,Melaka,2023-10-25,VIP
+CUST1799,Customer_3016,Male,40,Kuala Lumpur,2023-08-17,New
+CUST1386,Customer_3022,Male,29,Sarawak,2023-07-01,Regular
+CUST1942,Customer_3027,Female,31,Kuala Lumpur,2022-10-20,New
+CUST1657,Customer_3039,Female,55,Melaka,2023-03-24,New
+CUST50,Customer_3050,Male,51,Pahang,2022-04-24,Regular
+CUST531,Customer_3052,Female,47,Melaka,2023-05-28,New
+CUST1191,Customer_3055,Female,45,Melaka,2023-11-28,New
+CUST1226,Customer_3056,Female,42,Perak,2022-07-28,VIP
+CUST483,Customer_3068,Female,24,Sarawak,2022-05-26,New
+CUST631,Customer_3072,Male,23,Pahang,2023-09-29,New
+CUST1456,Customer_3075,Male,31,Selangor,2023-05-01,VIP
+CUST650,Customer_3083,Female,55,Negeri Sembilan,2022-09-25,New
+CUST1101,Customer_3086,Male,38,Melaka,2023-11-19,New
+CUST441,Customer_3088,Male,34,Negeri Sembilan,2023-08-07,Regular
+CUST1621,Customer_3095,Female,54,Pahang,2022-08-24,New
+CUST1961,Customer_3102,Female,25,Johor,2023-11-05,Regular
+CUST999,Customer_3105,Male,27,Sabah,2023-05-02,Regular
+CUST621,Customer_3116,Male,49,Penang,2023-02-21,New
+CUST1006,Customer_3117,Female,19,Penang,2023-04-18,Regular
+CUST1923,Customer_3123,Male,37,Melaka,2023-09-15,New
+CUST1377,Customer_3126,Male,25,Melaka,2023-10-08,Regular
+CUST708,Customer_3131,Female,32,Negeri Sembilan,2023-02-07,New
+CUST1736,Customer_3144,Female,57,Negeri Sembilan,2022-03-24,New
+CUST1862,Customer_3153,Female,19,Perak,2023-11-24,Regular
+CUST614,Customer_3158,Female,51,Selangor,2023-06-19,New
+CUST354,Customer_3161,Female,20,Selangor,2023-07-10,Regular
+CUST1495,Customer_3162,Male,52,Melaka,2022-03-11,New
+CUST1466,Customer_3168,Male,55,Johor,2023-02-14,Regular
+CUST618,Customer_3178,Male,49,Kuala Lumpur,2023-01-23,New
+CUST446,Customer_3179,Female,45,Melaka,2022-12-17,New
+CUST1424,Customer_3186,Female,50,Sarawak,2022-03-11,Regular
+CUST980,Customer_3189,Female,43,Sarawak,2023-12-10,Regular
+CUST1566,Customer_3192,Female,42,Johor,2022-09-17,Regular
+CUST1272,Customer_3201,Male,31,Negeri Sembilan,2022-11-03,Regular
+CUST481,Customer_3224,Male,21,Sarawak,2023-04-16,VIP
+CUST1602,Customer_3228,Female,31,Pahang,2022-03-18,New
+CUST835,Customer_3236,Female,27,Sarawak,2023-01-18,New
+CUST262,Customer_3244,Male,41,Sarawak,2023-10-27,Regular
+CUST1963,Customer_3247,Female,38,Melaka,2022-12-14,Regular
+CUST1125,Customer_3251,Female,44,Sabah,2022-08-23,Regular
+CUST678,Customer_3258,Male,50,Johor,2023-02-14,New
+CUST1091,Customer_3267,Male,53,Johor,2022-11-15,New
+CUST1872,Customer_3268,Male,28,Johor,2023-12-07,New
+CUST931,Customer_3279,Female,58,Sabah,2022-07-06,New
+CUST1812,Customer_3282,Female,54,Sabah,2023-07-06,New
+CUST1792,Customer_3283,Male,51,Penang,2022-04-29,Regular
+CUST164,Customer_3291,Female,37,Pahang,2023-12-18,New
+CUST1134,Customer_3295,Female,20,Negeri Sembilan,2022-03-24,VIP
+CUST238,Customer_3298,Female,45,Perak,2023-07-30,Regular
+CUST1103,Customer_3314,Male,36,Penang,2022-06-21,VIP
+CUST1197,Customer_3316,Male,22,Melaka,2022-04-27,Regular
+CUST846,Customer_3325,Male,51,Selangor,2022-08-01,New
+CUST1011,Customer_3341,Male,20,Negeri Sembilan,2022-03-27,Regular
+CUST382,Customer_3348,Female,27,Selangor,2022-07-31,Regular
+CUST1353,Customer_3361,Male,38,Selangor,2023-07-06,Regular
+CUST1518,Customer_3364,Male,38,Melaka,2022-09-26,Regular
+CUST1104,Customer_3367,Male,40,Negeri Sembilan,2023-11-17,New
+CUST1284,Customer_3371,Male,23,Johor,2022-03-13,VIP
+CUST101,Customer_3376,Male,40,Selangor,2022-06-28,New
+CUST820,Customer_3379,Female,36,Negeri Sembilan,2023-02-13,Regular
+CUST124,Customer_3383,Male,30,Pahang,2022-05-04,New
+CUST1652,Customer_3389,Female,59,Kuala Lumpur,2022-09-02,Regular
+CUST1727,Customer_3390,Female,43,Johor,2022-02-23,New
+CUST768,Customer_3392,Male,39,Pahang,2022-04-12,Regular
+CUST519,Customer_3394,Male,27,Melaka,2023-06-20,New
+CUST1755,Customer_3407,Female,20,Pahang,2022-04-19,Regular
+CUST742,Customer_3410,Female,30,Pahang,2022-01-05,New
+CUST1615,Customer_3411,Female,25,Sarawak,2023-12-29,VIP
+CUST1850,Customer_3415,Male,21,Melaka,2022-05-15,Regular
+CUST1447,Customer_3417,Male,35,Perak,2023-08-05,New
+CUST901,Customer_3418,Male,21,Penang,2023-08-14,New
+CUST1037,Customer_3420,Male,50,Johor,2023-09-03,New
+CUST213,Customer_3421,Female,44,Negeri Sembilan,2023-07-20,Regular
+CUST465,Customer_3430,Male,31,Sarawak,2022-10-30,Regular
+CUST1941,Customer_3436,Female,18,Kuala Lumpur,2022-03-03,New
+CUST1732,Customer_3443,Female,50,Melaka,2022-07-01,Regular
+CUST1949,Customer_3454,Female,55,Pahang,2023-07-24,New
+CUST1584,Customer_3470,Male,29,Johor,2023-09-07,New
+CUST232,Customer_3477,Female,21,Penang,2023-04-21,Regular
+CUST200,Customer_3486,Male,50,Kuala Lumpur,2022-09-29,New
+CUST945,Customer_3487,Female,21,Sabah,2022-06-07,New
+CUST1937,Customer_3489,Female,39,Sabah,2022-10-16,Regular
+CUST1879,Customer_3491,Female,48,Negeri Sembilan,2022-09-09,Regular
+CUST1645,Customer_3508,Female,49,Johor,2022-12-06,New
+CUST1507,Customer_3511,Female,31,Melaka,2023-03-12,Regular
+CUST366,Customer_3520,Female,48,Pahang,2022-10-30,Regular
+CUST1252,Customer_3521,Male,29,Penang,2023-10-23,New
+CUST1675,Customer_3522,Female,38,Sabah,2022-07-18,Regular
+CUST436,Customer_3523,Male,20,Johor,2022-07-31,Regular
+CUST1235,Customer_3525,Female,55,Selangor,2023-01-04,VIP
+CUST773,Customer_3533,Female,48,Melaka,2023-06-22,New
+CUST368,Customer_3542,Male,34,Negeri Sembilan,2022-09-27,Regular
+CUST1361,Customer_3544,Male,21,Kuala Lumpur,2023-11-25,Regular
+CUST463,Customer_3552,Male,55,Johor,2023-04-14,Regular
+CUST963,Customer_3554,Female,50,Johor,2023-11-06,New
+CUST1614,Customer_3559,Female,25,Sarawak,2023-12-05,New
+CUST169,Customer_3561,Male,23,Selangor,2023-10-11,VIP
+CUST652,Customer_3571,Male,41,Sarawak,2023-03-20,New
+CUST1512,Customer_3573,Male,53,Johor,2022-08-11,VIP
+CUST351,Customer_3579,Male,23,Johor,2022-11-01,New
+CUST523,Customer_3585,Male,45,Selangor,2023-09-22,New
+CUST273,Customer_3588,Male,58,Sarawak,2022-08-04,New
+CUST1993,Customer_3592,Male,30,Penang,2022-12-21,Regular
+CUST943,Customer_3618,Female,58,Kuala Lumpur,2023-02-24,Regular
+CUST1554,Customer_3619,Male,34,Pahang,2022-08-11,Regular
+CUST860,Customer_3640,Female,44,Perak,2022-12-30,Regular
+CUST283,Customer_3649,Male,43,Selangor,2022-03-30,New
+CUST421,Customer_3659,Male,59,Sabah,2022-12-05,VIP
+CUST696,Customer_3662,Male,22,Johor,2022-08-03,VIP
+CUST1054,Customer_3669,Male,38,Negeri Sembilan,2023-12-18,Regular
+CUST1152,Customer_3674,Female,29,Sarawak,2022-02-20,Regular
+CUST1135,Customer_3676,Female,49,Johor,2022-08-28,New
+CUST136,Customer_3677,Female,35,Kuala Lumpur,2022-03-20,Regular
+CUST362,Customer_3678,Female,59,Johor,2022-06-28,Regular
+CUST1090,Customer_3703,Female,32,Melaka,2022-11-22,Regular
+CUST112,Customer_3705,Male,51,Sarawak,2022-05-04,Regular
+CUST234,Customer_3711,Female,30,Melaka,2022-11-11,VIP
+CUST602,Customer_3712,Male,46,Melaka,2023-12-27,New
+CUST209,Customer_3716,Female,52,Pahang,2023-04-09,Regular
+CUST1038,Customer_3718,Female,21,Penang,2022-05-25,New
+CUST1779,Customer_3726,Female,41,Perak,2022-06-11,New
+CUST536,Customer_3740,Female,54,Selangor,2023-11-05,New
+CUST227,Customer_3742,Male,37,Sarawak,2022-06-25,New
+CUST1766,Customer_3745,Male,57,Pahang,2023-04-22,New
+CUST1081,Customer_3755,Male,47,Selangor,2023-05-16,New
+CUST941,Customer_3756,Male,53,Selangor,2022-03-01,New
+CUST583,Customer_3760,Female,30,Negeri Sembilan,2022-09-26,VIP
+CUST1539,Customer_3764,Female,54,Penang,2023-11-06,New
+CUST1079,Customer_3769,Male,27,Melaka,2023-01-17,Regular
+CUST766,Customer_3773,Male,35,Johor,2022-02-04,New
+CUST1212,Customer_3780,Female,43,Melaka,2023-02-11,Regular
+CUST60,Customer_3781,Female,43,Johor,2023-12-24,Regular
+CUST211,Customer_3786,Male,55,Perak,2023-08-08,Regular
+CUST927,Customer_3795,Male,30,Sabah,2022-07-07,Regular
+CUST868,Customer_3796,Female,22,Penang,2022-07-28,Regular
+CUST1583,Customer_3829,Male,20,Kuala Lumpur,2022-02-15,Regular
+CUST1643,Customer_3845,Female,46,Sabah,2022-12-23,Regular
+CUST1886,Customer_3847,Male,41,Pahang,2022-07-04,VIP
+CUST757,Customer_3854,Female,23,Negeri Sembilan,2023-09-06,Regular
+CUST49,Customer_3864,Male,22,Selangor,2022-12-25,Regular
+CUST638,Customer_3873,Male,21,Sabah,2022-07-23,Regular
+CUST1337,Customer_3880,Male,23,Kuala Lumpur,2023-01-23,Regular
+CUST612,Customer_3881,Male,22,Kuala Lumpur,2022-01-30,VIP
+CUST1567,Customer_3890,Female,29,Sarawak,2023-04-30,VIP
+CUST163,Customer_3904,Male,55,Melaka,2022-01-19,Regular
+CUST1642,Customer_3913,Male,37,Melaka,2023-02-10,Regular
+CUST1753,Customer_3914,Male,46,Sabah,2022-09-22,New
+CUST582,Customer_3916,Male,33,Negeri Sembilan,2022-02-08,New
+CUST875,Customer_3926,Male,26,Sarawak,2023-02-16,Regular
+CUST1557,Customer_3928,Male,38,Melaka,2023-03-06,New
+CUST1423,Customer_3935,Female,25,Perak,2023-10-15,Regular
+CUST1784,Customer_3937,Male,22,Pahang,2022-05-13,Regular
+CUST1227,Customer_3938,Female,38,Negeri Sembilan,2022-06-15,Regular
+CUST142,Customer_3950,Male,36,Sarawak,2022-08-27,New
+CUST1106,Customer_3955,Male,23,Perak,2023-07-19,New
+CUST573,Customer_3985,Male,37,Sarawak,2023-10-11,VIP
+CUST423,Customer_3991,Male,26,Penang,2022-11-15,VIP
+CUST1622,Customer_3992,Male,48,Pahang,2022-04-01,New
+CUST529,Customer_3994,Female,36,Selangor,2022-09-26,New
+CUST966,Customer_3996,Male,27,Sarawak,2022-04-09,New
+CUST1538,Customer_4004,Male,59,Kuala Lumpur,2022-05-13,Regular
+CUST1703,Customer_4015,Female,30,Pahang,2023-12-12,New
+CUST611,Customer_4024,Male,46,Johor,2022-04-17,New
+CUST1092,Customer_4036,Female,19,Perak,2023-10-02,Regular
+CUST782,Customer_4048,Female,31,Melaka,2022-09-08,Regular
+CUST680,Customer_4052,Male,35,Negeri Sembilan,2022-02-08,New
+CUST679,Customer_4070,Male,29,Pahang,2023-04-28,Regular
+CUST1815,Customer_4072,Male,32,Penang,2022-04-26,Regular
+CUST508,Customer_4086,Male,36,Melaka,2022-06-19,Regular
+CUST1899,Customer_4114,Male,47,Sarawak,2022-07-29,Regular
+CUST486,Customer_4116,Male,50,Sarawak,2022-09-02,VIP
+CUST1024,Customer_4121,Male,22,Pahang,2023-01-26,Regular
+CUST260,Customer_4129,Male,22,Pahang,2023-09-17,VIP
+CUST544,Customer_4135,Female,21,Melaka,2023-12-07,New
+CUST1911,Customer_4140,Male,25,Melaka,2022-02-05,New
+CUST1819,Customer_4159,Female,46,Selangor,2022-10-10,Regular
+CUST701,Customer_4173,Male,22,Johor,2023-07-05,Regular
+CUST1396,Customer_4177,Male,53,Sabah,2023-09-27,New
+CUST1510,Customer_4178,Male,57,Negeri Sembilan,2022-10-10,Regular
+CUST1458,Customer_4179,Male,54,Penang,2022-03-02,VIP
+CUST953,Customer_4216,Male,24,Kuala Lumpur,2022-06-24,Regular
+CUST248,Customer_4237,Male,56,Melaka,2022-08-24,Regular
+CUST1603,Customer_4251,Male,37,Sabah,2023-09-09,New
+CUST533,Customer_4259,Male,18,Kuala Lumpur,2023-08-31,New
+CUST219,Customer_4279,Female,33,Melaka,2023-02-11,Regular
+CUST1627,Customer_4282,Male,41,Johor,2022-10-18,Regular
+CUST558,Customer_4285,Female,34,Sabah,2022-07-01,New
+CUST840,Customer_4290,Male,49,Negeri Sembilan,2022-12-03,VIP
+CUST1870,Customer_4295,Female,50,Negeri Sembilan,2023-02-25,VIP
+CUST424,Customer_4300,Female,53,Sabah,2023-08-13,Regular
+CUST1299,Customer_4313,Male,19,Perak,2022-06-21,New
+CUST1737,Customer_4314,Male,28,Melaka,2022-11-16,New
+CUST1660,Customer_4323,Female,42,Melaka,2023-12-24,Regular
+CUST222,Customer_4352,Female,37,Johor,2023-03-26,Regular
+CUST68,Customer_4355,Female,26,Sarawak,2022-06-05,New
+CUST1897,Customer_4359,Male,47,Sabah,2023-12-20,Regular
+CUST1279,Customer_4366,Male,21,Sabah,2022-06-19,VIP
+CUST1469,Customer_4392,Male,24,Perak,2022-06-29,Regular
+CUST977,Customer_4396,Female,39,Melaka,2022-07-04,New
+CUST728,Customer_4398,Male,23,Melaka,2023-12-01,New
+CUST480,Customer_4399,Male,44,Kuala Lumpur,2023-05-03,New
+CUST332,Customer_4406,Male,32,Kuala Lumpur,2022-03-14,Regular
+CUST1612,Customer_4408,Male,53,Sabah,2023-08-25,Regular
+CUST174,Customer_4409,Female,50,Sabah,2023-09-24,Regular
+CUST26,Customer_4414,Male,47,Kuala Lumpur,2022-01-04,VIP
+CUST179,Customer_4425,Male,41,Penang,2022-01-13,VIP
+CUST1430,Customer_4432,Female,29,Sarawak,2022-09-20,New
+CUST1965,Customer_4434,Male,43,Penang,2023-10-23,New
+CUST1111,Customer_4445,Male,26,Penang,2022-02-09,New
+CUST1746,Customer_4450,Female,56,Penang,2022-11-10,New
+CUST1160,Customer_4482,Female,38,Penang,2022-10-10,Regular
+CUST555,Customer_4483,Female,33,Pahang,2023-05-11,VIP
+CUST1573,Customer_4501,Female,45,Negeri Sembilan,2022-10-27,New
+CUST1357,Customer_4519,Female,42,Sarawak,2023-04-30,Regular
+CUST1581,Customer_4522,Male,59,Selangor,2022-07-23,New
+CUST1264,Customer_4534,Female,35,Sabah,2022-04-25,Regular
+CUST1367,Customer_4546,Female,24,Sabah,2023-09-09,VIP
+CUST431,Customer_4549,Male,35,Johor,2022-09-13,Regular
+CUST412,Customer_4566,Female,44,Selangor,2023-05-18,Regular
+CUST655,Customer_4574,Female,32,Sarawak,2023-08-11,New
+CUST1794,Customer_4577,Male,44,Selangor,2023-10-19,Regular
+CUST1290,Customer_4586,Male,33,Kuala Lumpur,2023-09-12,Regular
+CUST1564,Customer_4594,Male,25,Kuala Lumpur,2022-05-16,Regular
+CUST1335,Customer_4614,Male,45,Sabah,2022-06-26,VIP
+CUST1462,Customer_4631,Female,35,Johor,2023-08-11,VIP
+CUST1973,Customer_4639,Male,38,Sabah,2022-10-06,VIP
+CUST1658,Customer_4640,Male,49,Perak,2023-12-21,New
+CUST195,Customer_4647,Female,39,Penang,2022-10-13,New
+CUST1314,Customer_4665,Male,48,Pahang,2022-08-30,New
+CUST440,Customer_4666,Male,37,Pahang,2023-05-25,New
+CUST1692,Customer_4667,Male,43,Negeri Sembilan,2022-08-01,Regular
+CUST933,Customer_4668,Female,36,Johor,2022-04-22,VIP
+CUST1468,Customer_4680,Female,52,Perak,2023-09-24,Regular
+CUST1503,Customer_4685,Male,48,Selangor,2023-06-02,Regular
+CUST325,Customer_4693,Female,45,Kuala Lumpur,2023-08-01,New
+CUST1179,Customer_4717,Female,22,Perak,2022-01-24,VIP
+CUST125,Customer_4726,Female,29,Pahang,2023-06-14,Regular
+CUST786,Customer_4742,Female,36,Johor,2022-03-29,Regular
+CUST369,Customer_4744,Male,36,Sarawak,2023-02-17,New
+CUST77,Customer_4746,Female,29,Pahang,2023-08-17,Regular
+CUST300,Customer_4782,Female,40,Sabah,2023-10-16,Regular
+CUST359,Customer_4784,Female,26,Perak,2022-04-17,Regular
+CUST1238,Customer_4805,Female,29,Pahang,2022-12-07,Regular
+CUST1785,Customer_4806,Male,47,Penang,2022-06-29,New
+CUST64,Customer_4821,Male,47,Sarawak,2022-05-08,Regular
+CUST1115,Customer_4822,Female,19,Kuala Lumpur,2022-10-23,New
+CUST267,Customer_4825,Female,50,Selangor,2023-08-30,VIP
+CUST1685,Customer_4831,Female,39,Johor,2023-11-08,New
+CUST1511,Customer_4834,Male,23,Sabah,2023-12-12,New
+CUST1611,Customer_4860,Male,56,Sarawak,2023-08-01,New
+CUST1778,Customer_4871,Male,18,Selangor,2023-11-14,Regular
+CUST1489,Customer_4872,Female,39,Negeri Sembilan,2023-10-03,Regular
+CUST737,Customer_4895,Female,49,Sarawak,2022-03-13,New
+CUST1834,Customer_4919,Female,46,Perak,2022-12-20,Regular
+CUST1310,Customer_4930,Female,33,Penang,2023-07-13,New
+CUST57,Customer_4931,Male,53,Perak,2023-01-10,Regular
+CUST1768,Customer_4953,Female,38,Selangor,2023-03-13,Regular
+CUST257,Customer_4960,Male,24,Negeri Sembilan,2023-07-24,New
+CUST1559,Customer_4966,Female,46,Penang,2023-04-06,New
+CUST1289,Customer_4967,Female,56,Sabah,2022-08-17,Regular
+CUST1379,Customer_4976,Male,40,Kuala Lumpur,2023-01-02,Regular
+CUST45,Customer_4984,Male,55,Johor,2022-04-29,New
+CUST1147,Customer_4987,Female,38,Perak,2022-10-30,New
+CUST1552,Customer_4989,Male,58,Melaka,2023-03-14,Regular
+CUST1770,Customer_4995,Female,18,Sarawak,2022-11-20,Regular
+CUST322,Customer_5000,Male,31,Kuala Lumpur,2022-09-14,New
+CUST904,Customer_5011,Male,45,Penang,2023-04-22,Regular
+CUST437,Customer_5027,Female,24,Johor,2023-03-23,New
+CUST31,Customer_5036,Male,20,Kuala Lumpur,2023-02-04,VIP
+CUST1229,Customer_5063,Male,33,Sarawak,2023-07-27,Regular
+CUST1740,Customer_5079,Male,29,Johor,2022-02-24,New
+CUST991,Customer_5083,Female,49,Perak,2022-03-03,Regular
+CUST818,Customer_5095,Male,23,Melaka,2022-11-27,New
+CUST1698,Customer_5112,Female,22,Johor,2022-01-09,New
+CUST1107,Customer_5120,Female,47,Pahang,2022-03-08,New
+CUST1996,Customer_5125,Female,50,Perak,2022-06-27,New
+CUST1445,Customer_5127,Female,38,Pahang,2023-10-12,Regular
+CUST175,Customer_5139,Female,31,Perak,2022-06-30,Regular
+CUST1809,Customer_5150,Male,50,Selangor,2022-07-14,Regular
+CUST979,Customer_5158,Female,48,Penang,2022-06-20,VIP
+CUST810,Customer_5162,Female,57,Selangor,2022-12-22,Regular
+CUST1162,Customer_5243,Male,46,Johor,2023-10-17,Regular
+CUST171,Customer_5255,Female,48,Pahang,2023-02-26,New
+CUST409,Customer_5256,Female,55,Kuala Lumpur,2022-02-14,New
+CUST858,Customer_5260,Female,37,Johor,2023-09-09,VIP
+CUST745,Customer_5280,Male,47,Selangor,2022-12-25,Regular
+CUST33,Customer_5288,Female,34,Sarawak,2022-04-11,VIP
+CUST756,Customer_5292,Male,28,Negeri Sembilan,2022-08-18,New
+CUST1671,Customer_5302,Female,18,Penang,2023-05-08,New
+CUST1069,Customer_5315,Female,21,Selangor,2022-09-23,New
+CUST434,Customer_5342,Female,36,Negeri Sembilan,2022-04-26,New
+CUST1114,Customer_5351,Female,52,Pahang,2023-08-04,VIP
+CUST1223,Customer_5353,Male,33,Pahang,2022-07-22,Regular
+CUST507,Customer_5359,Male,39,Melaka,2022-09-17,Regular
+CUST1363,Customer_5361,Male,36,Pahang,2022-11-01,New
+CUST863,Customer_5369,Female,34,Kuala Lumpur,2022-06-17,Regular
+CUST1117,Customer_5424,Female,26,Perak,2022-09-19,Regular
+CUST1745,Customer_5431,Male,43,Penang,2023-10-25,Regular
+CUST333,Customer_5434,Female,57,Sarawak,2023-08-03,New
+CUST870,Customer_5460,Female,39,Pahang,2023-07-10,Regular
+CUST1271,Customer_5478,Female,47,Pahang,2023-04-05,New
+CUST1624,Customer_5493,Male,46,Melaka,2023-11-24,Regular
+CUST74,Customer_5501,Female,23,Negeri Sembilan,2023-09-29,VIP
+CUST1428,Customer_5569,Female,33,Sarawak,2022-10-12,VIP
+CUST1739,Customer_5574,Male,20,Johor,2022-10-18,Regular
+CUST651,Customer_5590,Male,30,Sarawak,2022-05-06,VIP
+CUST462,Customer_5608,Female,51,Negeri Sembilan,2022-08-21,New
+CUST221,Customer_5617,Male,25,Selangor,2022-07-07,New
+CUST1392,Customer_5620,Female,57,Sabah,2022-03-03,Regular
+CUST271,Customer_5631,Female,31,Negeri Sembilan,2023-09-21,VIP
+CUST189,Customer_5640,Male,41,Kuala Lumpur,2023-07-21,New
+CUST1188,Customer_5641,Male,32,Perak,2022-03-31,VIP
+CUST1028,Customer_5645,Female,43,Pahang,2023-08-29,New
+CUST290,Customer_5647,Female,35,Negeri Sembilan,2023-04-23,Regular
+CUST433,Customer_5649,Male,23,Sarawak,2023-10-31,New
+CUST1205,Customer_5651,Female,34,Penang,2022-12-11,VIP
+CUST681,Customer_5661,Female,52,Perak,2022-12-29,VIP
+CUST1533,Customer_5663,Female,46,Penang,2023-06-19,VIP
+CUST1341,Customer_5676,Male,34,Perak,2023-05-08,New
+CUST212,Customer_5677,Male,41,Johor,2022-02-06,New
+CUST1062,Customer_5685,Female,41,Melaka,2022-08-25,Regular
+CUST1193,Customer_5689,Male,44,Johor,2023-09-29,New
+CUST496,Customer_5705,Male,37,Johor,2023-10-31,New
+CUST310,Customer_5715,Male,54,Perak,2022-12-31,VIP
+CUST938,Customer_5722,Female,34,Sarawak,2023-04-27,Regular
+CUST1504,Customer_5732,Female,42,Sarawak,2023-02-04,Regular
+CUST1860,Customer_5737,Male,33,Johor,2022-11-03,New
+CUST1222,Customer_5762,Female,27,Pahang,2023-05-16,Regular
+CUST1617,Customer_5771,Female,21,Pahang,2022-02-10,Regular
+CUST1938,Customer_5803,Male,18,Penang,2023-09-19,New
+CUST1908,Customer_5807,Male,37,Perak,2022-04-01,Regular
+CUST1339,Customer_5819,Male,42,Negeri Sembilan,2022-08-10,VIP
+CUST1875,Customer_5821,Female,48,Melaka,2023-02-25,VIP
+CUST193,Customer_5828,Female,28,Kuala Lumpur,2023-03-15,New
+CUST1000,Customer_5833,Female,23,Melaka,2022-09-03,New
+CUST1579,Customer_5843,Female,29,Sabah,2022-09-01,New
+CUST451,Customer_5861,Female,33,Pahang,2023-12-13,New
+CUST1808,Customer_5863,Female,31,Sarawak,2023-05-21,New
+CUST197,Customer_5898,Male,44,Penang,2022-02-13,New
+CUST1718,Customer_5907,Male,51,Kuala Lumpur,2022-02-20,New
+CUST760,Customer_5917,Female,25,Sarawak,2023-09-08,Regular
+CUST1594,Customer_5934,Female,49,Perak,2022-03-17,New
+CUST1492,Customer_5942,Male,37,Perak,2022-03-27,Regular
+CUST1019,Customer_5949,Female,47,Pahang,2023-06-05,Regular
+CUST950,Customer_5972,Male,54,Penang,2023-12-02,Regular
+CUST367,Customer_5978,Female,39,Johor,2022-02-16,New
+CUST1814,Customer_6015,Female,56,Johor,2022-07-31,VIP
+CUST46,Customer_6035,Female,44,Sarawak,2022-06-05,Regular
+CUST176,Customer_6040,Female,55,Perak,2023-12-22,New
+CUST1780,Customer_6049,Female,38,Perak,2022-08-11,New
+CUST1704,Customer_6074,Female,31,Sarawak,2022-01-13,Regular
+CUST299,Customer_6088,Female,51,Kuala Lumpur,2022-07-21,Regular
+CUST1362,Customer_6106,Male,33,Melaka,2023-06-28,VIP
+CUST319,Customer_6112,Male,43,Perak,2023-11-21,Regular
+CUST603,Customer_6122,Female,54,Melaka,2022-03-13,New
+CUST568,Customer_6143,Female,36,Perak,2023-12-13,VIP
+CUST1211,Customer_6144,Female,32,Melaka,2023-09-24,Regular
+CUST121,Customer_6187,Female,55,Pahang,2023-10-21,Regular
+CUST1619,Customer_6204,Male,56,Pahang,2023-11-18,VIP
+CUST803,Customer_6205,Male,43,Negeri Sembilan,2023-10-30,New
+CUST52,Customer_6221,Male,27,Penang,2022-02-27,VIP
+CUST1413,Customer_6230,Male,32,Johor,2022-09-04,VIP
+CUST622,Customer_6232,Male,41,Pahang,2023-06-08,New
+CUST1201,Customer_6233,Female,47,Penang,2023-12-01,New
+CUST97,Customer_6238,Male,55,Pahang,2023-04-28,Regular
+CUST1030,Customer_6243,Male,45,Pahang,2022-09-21,Regular
+CUST597,Customer_6279,Female,26,Selangor,2022-12-10,Regular
+CUST1042,Customer_6284,Male,19,Johor,2022-07-03,VIP
+CUST416,Customer_6293,Male,51,Pahang,2023-05-08,Regular
+CUST1035,Customer_6306,Female,40,Selangor,2022-03-12,Regular
+CUST1002,Customer_6332,Male,41,Negeri Sembilan,2022-10-02,New
+CUST1457,Customer_6347,Male,48,Kuala Lumpur,2022-11-11,Regular
+CUST71,Customer_6357,Male,59,Selangor,2022-09-04,New
+CUST1293,Customer_6358,Female,47,Sabah,2023-08-08,New
+CUST1789,Customer_6375,Female,56,Kuala Lumpur,2022-09-30,New
+CUST1437,Customer_6403,Female,24,Penang,2022-09-06,Regular
+CUST1256,Customer_6416,Male,46,Melaka,2022-03-26,Regular
+CUST185,Customer_6428,Female,19,Melaka,2022-07-31,VIP
+CUST292,Customer_6430,Female,41,Sarawak,2023-12-21,New
+CUST1984,Customer_6443,Female,34,Sarawak,2023-09-17,New
+CUST323,Customer_6448,Male,36,Sarawak,2023-04-03,New
+CUST671,Customer_6476,Female,36,Sarawak,2023-02-26,New
+CUST44,Customer_6502,Female,30,Penang,2023-02-27,New
+CUST528,Customer_6534,Female,20,Selangor,2023-11-17,Regular
+CUST204,Customer_6598,Male,41,Perak,2022-01-04,VIP
+CUST799,Customer_6645,Male,18,Perak,2023-01-10,New
+CUST458,Customer_6649,Female,42,Negeri Sembilan,2023-04-08,Regular
+CUST1232,Customer_6690,Female,55,Selangor,2023-10-14,VIP
+CUST1733,Customer_6718,Male,46,Pahang,2022-08-11,New
+CUST694,Customer_6741,Male,38,Sabah,2022-04-21,New
+CUST839,Customer_6761,Male,43,Melaka,2023-06-18,New
+CUST1118,Customer_6794,Female,22,Penang,2023-12-26,VIP
+CUST1174,Customer_6810,Male,51,Selangor,2022-03-30,Regular
+CUST439,Customer_6821,Female,28,Kuala Lumpur,2022-01-24,Regular
+CUST830,Customer_6824,Female,40,Perak,2023-06-08,Regular
+CUST1095,Customer_6873,Male,48,Penang,2022-09-22,New
+CUST1832,Customer_6891,Female,33,Selangor,2023-02-20,Regular
+CUST110,Customer_6899,Female,34,Johor,2022-02-13,Regular
+CUST1919,Customer_6924,Female,45,Negeri Sembilan,2023-01-27,Regular
+CUST1056,Customer_6980,Male,30,Johor,2022-06-02,Regular
+CUST1868,Customer_6992,Female,21,Negeri Sembilan,2022-01-28,Regular
+CUST1613,Customer_7017,Male,33,Penang,2022-09-25,VIP
+CUST1352,Customer_7102,Female,26,Selangor,2022-01-04,New
+CUST606,Customer_7138,Female,55,Sabah,2022-06-05,VIP
+CUST479,Customer_7151,Female,54,Perak,2022-10-01,VIP
+CUST417,Customer_7157,Female,57,Kuala Lumpur,2023-10-19,Regular
+CUST1345,Customer_7183,Female,21,Sabah,2022-02-05,Regular
+CUST1323,Customer_7243,Male,39,Johor,2022-06-03,New
+CUST1129,Customer_7251,Female,44,Negeri Sembilan,2023-05-18,New
+CUST252,Customer_7258,Male,27,Selangor,2022-02-11,Regular
+CUST472,Customer_7273,Female,25,Negeri Sembilan,2023-09-06,Regular
+CUST890,Customer_7362,Male,35,Kuala Lumpur,2023-05-19,Regular
+CUST70,Customer_7364,Female,22,Penang,2022-08-20,Regular
+CUST1221,Customer_7403,Female,24,Negeri Sembilan,2022-06-22,Regular
+CUST30,Customer_7412,Male,46,Sabah,2022-12-25,New
+CUST415,Customer_7487,Male,25,Negeri Sembilan,2022-12-16,New
+CUST1269,Customer_7488,Female,41,Perak,2022-05-25,Regular
+CUST1273,Customer_7513,Female,48,Kuala Lumpur,2022-09-22,New
+CUST556,Customer_7519,Male,18,Selangor,2022-12-23,VIP
+CUST1074,Customer_7545,Male,31,Penang,2023-06-23,VIP
+CUST355,Customer_7547,Male,27,Melaka,2023-11-09,New
+CUST880,Customer_7556,Male,46,Melaka,2023-04-06,New
+CUST808,Customer_7560,Female,35,Selangor,2022-06-04,Regular
+CUST882,Customer_7599,Female,31,Sarawak,2022-04-24,New
+CUST811,Customer_7640,Male,35,Sarawak,2023-06-30,New
+CUST1558,Customer_7655,Male,48,Kuala Lumpur,2022-12-30,VIP
+CUST599,Customer_7668,Male,37,Sabah,2023-01-17,Regular
+CUST241,Customer_7733,Male,39,Sarawak,2022-04-24,VIP
+CUST1903,Customer_7764,Female,39,Johor,2023-08-07,New
+CUST1966,Customer_7766,Female,52,Penang,2022-12-15,Regular
+CUST1790,Customer_7772,Male,55,Sarawak,2023-10-28,Regular
+CUST965,Customer_7829,Female,51,Johor,2022-02-24,Regular
+CUST1972,Customer_7845,Male,48,Selangor,2022-10-02,Regular
+CUST908,Customer_7923,Male,30,Sarawak,2022-06-04,VIP
+CUST788,Customer_8007,Male,30,Johor,2022-03-19,New
+CUST1695,Customer_8018,Male,33,Sabah,2023-02-08,New
+CUST706,Customer_8165,Male,29,Negeri Sembilan,2022-03-07,Regular
+CUST411,Customer_8231,Male,23,Sabah,2023-04-26,New
+CUST1845,Customer_8270,Female,26,Negeri Sembilan,2022-07-02,Regular
+CUST600,Customer_8271,Female,25,Pahang,2022-09-20,Regular
+CUST747,Customer_8297,Female,35,Johor,2022-07-08,New
+CUST1787,Customer_8392,Male,27,Sarawak,2022-10-03,New
+CUST255,Customer_8417,Female,47,Negeri Sembilan,2022-10-23,Regular
+CUST1420,Customer_8540,Male,24,Sarawak,2023-04-18,VIP
+CUST813,Customer_8651,Male,39,Melaka,2023-06-06,VIP
+CUST1371,Customer_8767,Male,32,Sarawak,2023-05-28,New
+CUST297,Customer_8793,Female,33,Penang,2023-02-12,New
+CUST1570,Customer_8851,Female,58,Selangor,2022-03-08,New
+CUST1407,Customer_9039,Male,27,Selangor,2023-02-05,New
+CUST1048,Customer_9122,Male,41,Sarawak,2022-08-30,Regular
+CUST562,Customer_9135,Male,59,Sarawak,2023-01-31,Regular
+CUST352,Customer_9148,Male,56,Melaka,2023-09-24,VIP
+CUST765,Customer_9171,Female,42,Pahang,2023-07-07,New
+CUST1721,Customer_9224,Female,42,Pahang,2022-10-14,VIP
+CUST1488,Customer_9264,Female,32,Sabah,2022-01-04,Regular
+CUST1243,Customer_9466,Male,58,Melaka,2022-01-28,New
+CUST1651,Customer_9520,Male,22,Perak,2023-09-16,Regular
+CUST487,Customer_9682,Male,32,Kuala Lumpur,2022-11-02,VIP
+CUST1840,Customer_9726,Female,22,Selangor,2023-11-28,Regular
+CUST1481,Customer_9731,Female,53,Kuala Lumpur,2022-06-30,New
+CUST180,Customer_9766,Male,48,Pahang,2023-10-30,Regular
+CUST1262,Customer_9822,Female,32,Sarawak,2023-02-25,New

@@ -1,0 +1,501 @@
+Product_ID,Product_Category,Product_Name,Brand
+PROD229,Beauty,Product_449,Shopee Basics
+PROD350,Home,Product_203,Samsung
+PROD275,Fashion,Product_41,Shopee Basics
+PROD442,Electronics,Product_4,Zara
+PROD279,Electronics,Product_293,Uniqlo
+PROD251,Home,Product_915,Panasonic
+PROD310,Fashion,Product_889,Shopee Basics
+PROD208,Beauty,Product_299,Sony
+PROD321,Electronics,Product_550,L'Oréal
+PROD140,Home,Product_124,Xiaomi
+PROD280,Groceries,Product_343,Panasonic
+PROD34,Electronics,Product_24,Apple
+PROD309,Electronics,Product_461,Uniqlo
+PROD392,Home,Product_497,Samsung
+PROD18,Groceries,Product_992,Sony
+PROD57,Home,Product_961,Shopee Basics
+PROD112,Electronics,Product_342,L'Oréal
+PROD5,Home,Product_102,Nestle
+PROD410,Electronics,Product_49,Shopee Basics
+PROD414,Fashion,Product_888,Shopee Basics
+PROD182,Home,Product_96,Sony
+PROD13,Beauty,Product_362,Nestle
+PROD339,Home,Product_359,Xiaomi
+PROD285,Fashion,Product_688,Sony
+PROD259,Electronics,Product_103,Samsung
+PROD90,Fashion,Product_909,Samsung
+PROD104,Fashion,Product_100,Sony
+PROD379,Home,Product_687,L'Oréal
+PROD186,Beauty,Product_533,Samsung
+PROD250,Beauty,Product_888,Apple
+PROD255,Home,Product_720,Zara
+PROD76,Beauty,Product_122,Nestle
+PROD386,Beauty,Product_649,Apple
+PROD459,Beauty,Product_452,Nestle
+PROD108,Groceries,Product_345,Zara
+PROD156,Fashion,Product_336,Uniqlo
+PROD82,Electronics,Product_330,Xiaomi
+PROD77,Groceries,Product_970,Shopee Basics
+PROD485,Electronics,Product_607,Uniqlo
+PROD470,Home,Product_409,Apple
+PROD460,Groceries,Product_329,Shopee Basics
+PROD258,Fashion,Product_284,Shopee Basics
+PROD127,Electronics,Product_884,Zara
+PROD391,Home,Product_846,Uniqlo
+PROD282,Electronics,Product_261,Xiaomi
+PROD474,Fashion,Product_230,Apple
+PROD88,Fashion,Product_970,Xiaomi
+PROD204,Electronics,Product_38,Sony
+PROD16,Fashion,Product_284,Panasonic
+PROD151,Electronics,Product_458,Nestle
+PROD424,Home,Product_673,Samsung
+PROD254,Electronics,Product_816,Nestle
+PROD188,Electronics,Product_468,Xiaomi
+PROD329,Electronics,Product_192,Sony
+PROD32,Electronics,Product_863,Shopee Basics
+PROD271,Groceries,Product_506,Nestle
+PROD397,Fashion,Product_603,L'Oréal
+PROD330,Fashion,Product_264,L'Oréal
+PROD308,Groceries,Product_886,L'Oréal
+PROD333,Electronics,Product_259,Apple
+PROD169,Electronics,Product_4,L'Oréal
+PROD181,Fashion,Product_660,Samsung
+PROD366,Home,Product_447,Samsung
+PROD178,Fashion,Product_461,Uniqlo
+PROD143,Home,Product_454,Samsung
+PROD362,Electronics,Product_132,Uniqlo
+PROD248,Beauty,Product_21,Uniqlo
+PROD263,Groceries,Product_427,Nestle
+PROD40,Electronics,Product_51,Apple
+PROD412,Electronics,Product_595,Samsung
+PROD416,Groceries,Product_471,Xiaomi
+PROD355,Electronics,Product_785,Apple
+PROD240,Groceries,Product_883,Shopee Basics
+PROD228,Electronics,Product_29,Sony
+PROD341,Groceries,Product_351,Xiaomi
+PROD198,Home,Product_853,Apple
+PROD65,Groceries,Product_178,Samsung
+PROD388,Beauty,Product_714,Nestle
+PROD11,Fashion,Product_169,Apple
+PROD26,Fashion,Product_302,Uniqlo
+PROD445,Electronics,Product_522,Sony
+PROD421,Home,Product_740,Xiaomi
+PROD221,Electronics,Product_468,Uniqlo
+PROD496,Beauty,Product_384,Shopee Basics
+PROD237,Electronics,Product_4,Uniqlo
+PROD497,Beauty,Product_184,Shopee Basics
+PROD219,Beauty,Product_639,L'Oréal
+PROD487,Beauty,Product_817,Uniqlo
+PROD461,Home,Product_108,L'Oréal
+PROD123,Groceries,Product_982,Panasonic
+PROD144,Fashion,Product_46,Sony
+PROD478,Home,Product_924,Nestle
+PROD189,Home,Product_649,L'Oréal
+PROD68,Groceries,Product_133,Zara
+PROD336,Groceries,Product_169,Sony
+PROD159,Fashion,Product_466,Xiaomi
+PROD409,Groceries,Product_729,Uniqlo
+PROD300,Groceries,Product_310,Apple
+PROD396,Groceries,Product_556,Uniqlo
+PROD357,Home,Product_765,Shopee Basics
+PROD256,Electronics,Product_936,Apple
+PROD353,Beauty,Product_333,Panasonic
+PROD220,Home,Product_324,Nestle
+PROD9,Electronics,Product_154,Samsung
+PROD12,Groceries,Product_897,Xiaomi
+PROD325,Groceries,Product_206,L'Oréal
+PROD438,Home,Product_310,Nestle
+PROD244,Fashion,Product_381,Uniqlo
+PROD284,Electronics,Product_290,L'Oréal
+PROD312,Fashion,Product_517,L'Oréal
+PROD99,Home,Product_351,Shopee Basics
+PROD197,Home,Product_627,L'Oréal
+PROD482,Home,Product_618,Shopee Basics
+PROD226,Home,Product_217,Samsung
+PROD103,Groceries,Product_145,Panasonic
+PROD106,Electronics,Product_488,Zara
+PROD365,Home,Product_278,Samsung
+PROD368,Fashion,Product_340,Uniqlo
+PROD58,Beauty,Product_558,Samsung
+PROD78,Beauty,Product_937,Samsung
+PROD75,Beauty,Product_465,Samsung
+PROD42,Fashion,Product_174,Nestle
+PROD422,Fashion,Product_388,Shopee Basics
+PROD324,Fashion,Product_395,Nestle
+PROD33,Electronics,Product_295,Uniqlo
+PROD71,Groceries,Product_142,Shopee Basics
+PROD56,Fashion,Product_800,Uniqlo
+PROD105,Groceries,Product_244,Uniqlo
+PROD200,Home,Product_123,Samsung
+PROD101,Groceries,Product_878,Apple
+PROD307,Beauty,Product_879,Panasonic
+PROD74,Home,Product_411,Panasonic
+PROD171,Electronics,Product_763,Samsung
+PROD377,Home,Product_814,Zara
+PROD166,Beauty,Product_104,Samsung
+PROD399,Groceries,Product_130,Uniqlo
+PROD261,Groceries,Product_575,Nestle
+PROD83,Home,Product_974,Samsung
+PROD10,Electronics,Product_643,Zara
+PROD4,Beauty,Product_504,Xiaomi
+PROD351,Electronics,Product_551,Shopee Basics
+PROD402,Groceries,Product_326,Xiaomi
+PROD488,Beauty,Product_953,Nestle
+PROD292,Groceries,Product_277,Samsung
+PROD281,Home,Product_837,Samsung
+PROD215,Groceries,Product_445,L'Oréal
+PROD98,Home,Product_203,Panasonic
+PROD420,Groceries,Product_282,Panasonic
+PROD451,Electronics,Product_375,Shopee Basics
+PROD61,Beauty,Product_357,Uniqlo
+PROD146,Home,Product_15,Nestle
+PROD427,Fashion,Product_616,Nestle
+PROD419,Groceries,Product_854,Uniqlo
+PROD63,Groceries,Product_324,Xiaomi
+PROD121,Fashion,Product_45,Apple
+PROD462,Beauty,Product_719,Nestle
+PROD260,Electronics,Product_802,Zara
+PROD349,Beauty,Product_133,Zara
+PROD425,Beauty,Product_643,Sony
+PROD429,Beauty,Product_311,Sony
+PROD434,Groceries,Product_61,Nestle
+PROD207,Fashion,Product_261,Panasonic
+PROD28,Beauty,Product_614,Shopee Basics
+PROD170,Fashion,Product_211,Zara
+PROD116,Groceries,Product_200,Zara
+PROD69,Home,Product_836,L'Oréal
+PROD354,Beauty,Product_404,Shopee Basics
+PROD234,Home,Product_501,L'Oréal
+PROD1,Home,Product_763,Shopee Basics
+PROD167,Fashion,Product_376,Xiaomi
+PROD352,Groceries,Product_164,Samsung
+PROD218,Fashion,Product_838,Samsung
+PROD273,Groceries,Product_254,Uniqlo
+PROD347,Fashion,Product_6,Apple
+PROD344,Fashion,Product_823,Uniqlo
+PROD174,Fashion,Product_573,Xiaomi
+PROD246,Fashion,Product_157,Nestle
+PROD423,Electronics,Product_68,Apple
+PROD49,Beauty,Product_698,Shopee Basics
+PROD446,Fashion,Product_622,Shopee Basics
+PROD294,Beauty,Product_826,Zara
+PROD407,Electronics,Product_180,Uniqlo
+PROD150,Home,Product_147,Apple
+PROD132,Groceries,Product_366,Nestle
+PROD433,Groceries,Product_18,Sony
+PROD59,Groceries,Product_506,Zara
+PROD457,Electronics,Product_966,Nestle
+PROD199,Beauty,Product_1,Zara
+PROD472,Home,Product_58,Uniqlo
+PROD232,Home,Product_235,Samsung
+PROD247,Fashion,Product_933,Apple
+PROD382,Groceries,Product_432,L'Oréal
+PROD479,Home,Product_471,L'Oréal
+PROD239,Groceries,Product_300,L'Oréal
+PROD415,Beauty,Product_300,Zara
+PROD367,Groceries,Product_283,Zara
+PROD168,Electronics,Product_475,Sony
+PROD48,Groceries,Product_549,Panasonic
+PROD51,Electronics,Product_856,Panasonic
+PROD299,Fashion,Product_859,Apple
+PROD439,Home,Product_607,Samsung
+PROD216,Electronics,Product_158,Sony
+PROD177,Electronics,Product_88,Xiaomi
+PROD380,Groceries,Product_577,Apple
+PROD80,Electronics,Product_992,Samsung
+PROD185,Beauty,Product_143,L'Oréal
+PROD27,Fashion,Product_363,Shopee Basics
+PROD452,Electronics,Product_998,Uniqlo
+PROD464,Home,Product_112,Uniqlo
+PROD448,Fashion,Product_50,Nestle
+PROD492,Electronics,Product_530,Apple
+PROD195,Beauty,Product_874,Apple
+PROD214,Home,Product_643,Sony
+PROD369,Fashion,Product_322,Nestle
+PROD342,Electronics,Product_779,Zara
+PROD114,Groceries,Product_376,Nestle
+PROD242,Fashion,Product_853,Shopee Basics
+PROD124,Fashion,Product_791,Sony
+PROD305,Groceries,Product_184,Samsung
+PROD311,Electronics,Product_564,Panasonic
+PROD469,Home,Product_263,Samsung
+PROD196,Electronics,Product_475,Nestle
+PROD44,Fashion,Product_675,Apple
+PROD343,Beauty,Product_693,Shopee Basics
+PROD437,Home,Product_332,Apple
+PROD84,Groceries,Product_308,Zara
+PROD165,Beauty,Product_695,Nestle
+PROD405,Beauty,Product_421,Uniqlo
+PROD463,Electronics,Product_775,Sony
+PROD145,Fashion,Product_663,Uniqlo
+PROD498,Fashion,Product_641,Xiaomi
+PROD37,Home,Product_760,Shopee Basics
+PROD403,Electronics,Product_268,Sony
+PROD45,Home,Product_763,Samsung
+PROD206,Beauty,Product_442,L'Oréal
+PROD62,Groceries,Product_283,Panasonic
+PROD356,Home,Product_847,Panasonic
+PROD468,Home,Product_817,Zara
+PROD19,Beauty,Product_959,Sony
+PROD7,Beauty,Product_313,Uniqlo
+PROD249,Fashion,Product_429,Uniqlo
+PROD428,Fashion,Product_876,Samsung
+PROD117,Beauty,Product_50,Xiaomi
+PROD194,Groceries,Product_587,Xiaomi
+PROD55,Electronics,Product_884,Zara
+PROD266,Home,Product_460,Nestle
+PROD480,Home,Product_226,Apple
+PROD297,Home,Product_377,Sony
+PROD231,Groceries,Product_805,Shopee Basics
+PROD453,Home,Product_745,L'Oréal
+PROD378,Groceries,Product_987,Apple
+PROD394,Fashion,Product_80,Samsung
+PROD358,Fashion,Product_268,Panasonic
+PROD475,Groceries,Product_47,Panasonic
+PROD444,Electronics,Product_797,Zara
+PROD128,Groceries,Product_962,Samsung
+PROD179,Beauty,Product_774,Nestle
+PROD193,Groceries,Product_993,Nestle
+PROD92,Fashion,Product_130,Uniqlo
+PROD85,Electronics,Product_966,Samsung
+PROD30,Electronics,Product_975,Nestle
+PROD213,Fashion,Product_910,Samsung
+PROD265,Groceries,Product_771,Shopee Basics
+PROD296,Home,Product_491,Samsung
+PROD147,Groceries,Product_37,L'Oréal
+PROD484,Electronics,Product_421,Apple
+PROD306,Beauty,Product_771,Apple
+PROD161,Beauty,Product_492,Zara
+PROD141,Home,Product_444,Sony
+PROD334,Home,Product_98,Sony
+PROD97,Beauty,Product_610,Shopee Basics
+PROD43,Fashion,Product_293,Nestle
+PROD95,Fashion,Product_751,Samsung
+PROD262,Groceries,Product_249,Xiaomi
+PROD313,Groceries,Product_961,Sony
+PROD385,Groceries,Product_813,Sony
+PROD21,Beauty,Product_659,Samsung
+PROD238,Beauty,Product_307,Panasonic
+PROD471,Electronics,Product_338,Apple
+PROD372,Home,Product_893,Zara
+PROD404,Fashion,Product_208,L'Oréal
+PROD486,Beauty,Product_291,L'Oréal
+PROD25,Beauty,Product_103,L'Oréal
+PROD120,Home,Product_670,Nestle
+PROD277,Beauty,Product_558,Xiaomi
+PROD431,Fashion,Product_66,Sony
+PROD93,Fashion,Product_895,Sony
+PROD384,Beauty,Product_567,Uniqlo
+PROD387,Groceries,Product_166,Nestle
+PROD426,Beauty,Product_272,Samsung
+PROD227,Beauty,Product_964,Samsung
+PROD233,Fashion,Product_250,Samsung
+PROD323,Electronics,Product_260,Shopee Basics
+PROD153,Home,Product_837,L'Oréal
+PROD493,Fashion,Product_945,Samsung
+PROD436,Fashion,Product_665,Shopee Basics
+PROD172,Home,Product_813,Nestle
+PROD109,Fashion,Product_82,Zara
+PROD184,Beauty,Product_60,Samsung
+PROD371,Home,Product_980,Panasonic
+PROD373,Fashion,Product_91,Nestle
+PROD87,Groceries,Product_145,Zara
+PROD201,Electronics,Product_179,Uniqlo
+PROD337,Fashion,Product_655,Xiaomi
+PROD322,Home,Product_254,Nestle
+PROD211,Beauty,Product_11,Apple
+PROD118,Groceries,Product_584,Uniqlo
+PROD191,Home,Product_579,Samsung
+PROD315,Home,Product_25,Shopee Basics
+PROD276,Groceries,Product_806,Xiaomi
+PROD17,Fashion,Product_977,Samsung
+PROD283,Home,Product_96,Nestle
+PROD100,Beauty,Product_408,Panasonic
+PROD466,Home,Product_365,Samsung
+PROD455,Groceries,Product_369,Sony
+PROD81,Fashion,Product_810,Sony
+PROD39,Fashion,Product_706,Nestle
+PROD36,Beauty,Product_126,Shopee Basics
+PROD158,Groceries,Product_239,L'Oréal
+PROD152,Electronics,Product_211,Shopee Basics
+PROD14,Groceries,Product_491,Samsung
+PROD268,Electronics,Product_394,Uniqlo
+PROD210,Electronics,Product_671,Zara
+PROD286,Beauty,Product_901,Zara
+PROD203,Groceries,Product_847,Panasonic
+PROD209,Fashion,Product_490,Apple
+PROD129,Fashion,Product_584,Shopee Basics
+PROD335,Fashion,Product_364,L'Oréal
+PROD288,Fashion,Product_141,L'Oréal
+PROD252,Electronics,Product_583,Zara
+PROD408,Home,Product_657,Uniqlo
+PROD148,Beauty,Product_988,Panasonic
+PROD47,Groceries,Product_813,Xiaomi
+PROD96,Groceries,Product_863,Samsung
+PROD430,Groceries,Product_945,Samsung
+PROD477,Groceries,Product_907,Xiaomi
+PROD72,Fashion,Product_439,Shopee Basics
+PROD162,Fashion,Product_63,Panasonic
+PROD327,Electronics,Product_892,Samsung
+PROD38,Groceries,Product_911,L'Oréal
+PROD443,Home,Product_362,Shopee Basics
+PROD393,Home,Product_845,Shopee Basics
+PROD494,Beauty,Product_880,Apple
+PROD35,Beauty,Product_186,Xiaomi
+PROD389,Groceries,Product_509,Xiaomi
+PROD398,Beauty,Product_459,Uniqlo
+PROD235,Fashion,Product_375,Panasonic
+PROD304,Beauty,Product_147,Panasonic
+PROD381,Electronics,Product_492,Sony
+PROD217,Groceries,Product_39,Zara
+PROD135,Home,Product_985,Apple
+PROD133,Electronics,Product_395,Uniqlo
+PROD298,Groceries,Product_700,Samsung
+PROD359,Groceries,Product_962,Uniqlo
+PROD450,Electronics,Product_298,Apple
+PROD122,Beauty,Product_224,Uniqlo
+PROD318,Groceries,Product_191,Uniqlo
+PROD499,Beauty,Product_946,Shopee Basics
+PROD119,Groceries,Product_840,Apple
+PROD314,Beauty,Product_270,Xiaomi
+PROD418,Electronics,Product_474,Panasonic
+PROD326,Home,Product_705,Xiaomi
+PROD3,Electronics,Product_567,Uniqlo
+PROD67,Fashion,Product_944,Sony
+PROD332,Home,Product_123,Apple
+PROD176,Electronics,Product_502,Samsung
+PROD269,Beauty,Product_643,Zara
+PROD376,Home,Product_143,Uniqlo
+PROD138,Electronics,Product_765,Sony
+PROD52,Home,Product_562,Apple
+PROD134,Fashion,Product_66,Uniqlo
+PROD458,Home,Product_297,Zara
+PROD205,Electronics,Product_460,Samsung
+PROD24,Beauty,Product_21,L'Oréal
+PROD483,Groceries,Product_999,Samsung
+PROD291,Home,Product_695,Samsung
+PROD473,Electronics,Product_168,L'Oréal
+PROD302,Beauty,Product_269,Shopee Basics
+PROD155,Electronics,Product_367,Shopee Basics
+PROD241,Electronics,Product_442,Apple
+PROD489,Beauty,Product_10,Panasonic
+PROD180,Beauty,Product_861,Samsung
+PROD66,Beauty,Product_594,Shopee Basics
+PROD348,Home,Product_950,L'Oréal
+PROD22,Beauty,Product_99,Sony
+PROD107,Beauty,Product_884,L'Oréal
+PROD374,Beauty,Product_888,Samsung
+PROD173,Groceries,Product_760,Sony
+PROD31,Fashion,Product_70,Xiaomi
+PROD70,Beauty,Product_881,Panasonic
+PROD447,Groceries,Product_703,Nestle
+PROD20,Fashion,Product_983,L'Oréal
+PROD441,Beauty,Product_387,Zara
+PROD395,Groceries,Product_852,L'Oréal
+PROD91,Fashion,Product_846,Xiaomi
+PROD130,Groceries,Product_16,Panasonic
+PROD340,Electronics,Product_504,Zara
+PROD89,Beauty,Product_420,Zara
+PROD289,Electronics,Product_204,Samsung
+PROD278,Beauty,Product_756,Nestle
+PROD274,Home,Product_834,Panasonic
+PROD293,Home,Product_634,Samsung
+PROD243,Home,Product_388,Xiaomi
+PROD320,Electronics,Product_233,Sony
+PROD79,Beauty,Product_869,Xiaomi
+PROD225,Groceries,Product_473,Sony
+PROD163,Electronics,Product_252,Nestle
+PROD2,Home,Product_513,Panasonic
+PROD375,Beauty,Product_614,Zara
+PROD301,Home,Product_313,Apple
+PROD411,Fashion,Product_252,Zara
+PROD53,Home,Product_51,Apple
+PROD187,Home,Product_709,Sony
+PROD476,Fashion,Product_41,Zara
+PROD224,Home,Product_87,Zara
+PROD154,Home,Product_913,Apple
+PROD64,Groceries,Product_122,Samsung
+PROD125,Home,Product_202,Zara
+PROD29,Beauty,Product_774,Xiaomi
+PROD481,Beauty,Product_768,Zara
+PROD223,Electronics,Product_361,Uniqlo
+PROD102,Home,Product_358,Apple
+PROD46,Beauty,Product_599,L'Oréal
+PROD164,Home,Product_583,Nestle
+PROD111,Home,Product_902,Shopee Basics
+PROD338,Fashion,Product_688,Sony
+PROD126,Fashion,Product_167,Nestle
+PROD230,Groceries,Product_443,Xiaomi
+PROD495,Fashion,Product_27,Shopee Basics
+PROD346,Electronics,Product_579,Sony
+PROD236,Home,Product_607,Uniqlo
+PROD257,Groceries,Product_791,Shopee Basics
+PROD149,Groceries,Product_720,Panasonic
+PROD456,Electronics,Product_610,Sony
+PROD264,Groceries,Product_488,Uniqlo
+PROD94,Beauty,Product_700,Apple
+PROD432,Beauty,Product_838,Shopee Basics
+PROD73,Electronics,Product_838,Sony
+PROD435,Groceries,Product_978,Nestle
+PROD328,Beauty,Product_812,Nestle
+PROD361,Beauty,Product_153,Nestle
+PROD6,Home,Product_685,Shopee Basics
+PROD212,Beauty,Product_838,Samsung
+PROD449,Beauty,Product_539,Zara
+PROD331,Home,Product_108,Shopee Basics
+PROD465,Groceries,Product_49,Xiaomi
+PROD400,Electronics,Product_631,Apple
+PROD267,Beauty,Product_199,L'Oréal
+PROD115,Groceries,Product_403,Xiaomi
+PROD490,Electronics,Product_992,Uniqlo
+PROD383,Home,Product_647,Shopee Basics
+PROD270,Groceries,Product_256,L'Oréal
+PROD137,Beauty,Product_495,Nestle
+PROD417,Beauty,Product_3,Apple
+PROD390,Fashion,Product_592,Zara
+PROD157,Fashion,Product_60,Xiaomi
+PROD8,Home,Product_666,Apple
+PROD131,Electronics,Product_850,Samsung
+PROD253,Beauty,Product_791,Apple
+PROD110,Electronics,Product_768,L'Oréal
+PROD454,Electronics,Product_226,Xiaomi
+PROD491,Beauty,Product_273,Samsung
+PROD190,Home,Product_262,Samsung
+PROD413,Home,Product_804,Apple
+PROD467,Fashion,Product_45,Apple
+PROD50,Fashion,Product_826,Samsung
+PROD183,Home,Product_508,L'Oréal
+PROD192,Home,Product_516,Zara
+PROD139,Home,Product_58,Samsung
+PROD406,Home,Product_658,Xiaomi
+PROD316,Home,Product_689,Samsung
+PROD160,Home,Product_71,Zara
+PROD317,Fashion,Product_594,Xiaomi
+PROD175,Beauty,Product_294,Zara
+PROD303,Fashion,Product_358,Xiaomi
+PROD15,Fashion,Product_338,Shopee Basics
+PROD319,Electronics,Product_940,Shopee Basics
+PROD60,Fashion,Product_428,Panasonic
+PROD245,Electronics,Product_202,Nestle
+PROD401,Groceries,Product_633,Apple
+PROD440,Groceries,Product_24,Xiaomi
+PROD202,Home,Product_940,Sony
+PROD222,Home,Product_360,Apple
+PROD272,Home,Product_14,Nestle
+PROD86,Home,Product_889,Nestle
+PROD287,Beauty,Product_688,Xiaomi
+PROD364,Home,Product_405,Xiaomi
+PROD136,Electronics,Product_223,Zara
+PROD295,Home,Product_56,Uniqlo
+PROD142,Beauty,Product_675,Samsung
+PROD290,Home,Product_48,Panasonic
+PROD363,Electronics,Product_636,Sony
+PROD360,Groceries,Product_64,Apple
+PROD41,Beauty,Product_458,Samsung
+PROD500,Beauty,Product_530,Panasonic
+PROD113,Fashion,Product_770,Samsung
+PROD345,Home,Product_20,Xiaomi
+PROD23,Home,Product_249,Xiaomi
+PROD54,Home,Product_355,Sony
+PROD370,Fashion,Product_162,L'Oréal
